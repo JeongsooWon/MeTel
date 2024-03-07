@@ -29,12 +29,12 @@ Input format
 -------
 For MeTel.py input, a text file is prepared in the following format, constituting a union set of the somatic mutation profiles from two samples.
 Examples of input file is shown in "INPUT" directory.
-+ 1st column: Sample ID
-+ 2nd column: Gene
-+ 3rd column: HGVSc 
-+ 4th column: HGVSp
-+ 5th column: A_VAF (Variant Allele Frequency for the first occurring sample)
-+ 6th column: B_VAF (Variant Allele Frequency for the later occurring sample)
++ **1st column:** Sample ID
++ **2nd column:** Gene
++ **3rd column:** HGVSc 
++ **4th column:** HGVSp
++ **5th column:** A_VAF (Variant Allele Frequency for the first occurring sample)
++ **6th column:** B_VAF (Variant Allele Frequency for the later occurring sample)
 
 Notes:
 1. If the ordering of the samples is unknown or they are synchronous, the ordering does not matter.
