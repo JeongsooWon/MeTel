@@ -6,7 +6,7 @@ MeTel (Metastasis Teller)
 + Support an ethnic-specific mode, tailored by population-specific mutation frequency data, enhancing its global applicability.
 <br/><br/>
 **This repository includes scripts that utilized in the probability calculation process of the MeTel algorithm.
-  <br/>And contains input files,as an example, it derived from the somatic mutation profiles of in-house samples (n=12) employed in this study, as well as their corresponding outputs.**
+  <br/>And contains input files, as an example, it derived from the somatic mutation profiles of in-house samples (n=12) employed in this study, as well as their corresponding outputs.**
 
 
 **Overview of the MeTel algorithm**
