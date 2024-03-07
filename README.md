@@ -38,7 +38,7 @@ Examples of input file is shown in "INPUT" directory.
 
 Notes:
 1. If the ordering of the samples is unknown or they are synchronous, the ordering does not matter.
-2. If VAF cannot be determined, input the expected average VAF (0.3 is recommended).
+2. If VAF cannot be determined, input the expected VAF (0.3 is recommended).
 3. Enter a VAF of 0 for samples where the mutation does not occur.
 
 Running
