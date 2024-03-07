@@ -48,5 +48,10 @@ python3 MeTel.py {input.txt} {output.txt} [Options]
 **Options**
 ```
 -s {syn, meta}, --synmeta {syn, meta}   Synchronocity Information (default : syn)
--r {asian, non-asian} --race {asian, non-asian}    Race Mode (default : unspecified(use all population))
+-r {asian, non-asian} --race {asian, non-asian}    Race Mode (default : Unspecified(use all population))
 ```
+**Output**
++ **Classification_Score(s):** The log-scale value of the ratio of probability of IPM and MPLC
++ **Diagnosis_Result:** If s > 0, samples classified as IPM, or if s < 0, MPLC
++ **Confidence_Level:** Likley, Probable, Confident
++ **Race:** Racial information (asian, non-asian, Unspecified)
