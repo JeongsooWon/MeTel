@@ -1,5 +1,5 @@
 MeTel (Metastasis Teller)
-------
+---------------------
 + Classification algorithm for intrapulmonary metastasis (IPM) and multiple primary lung cancer (MPLC) in multiple lung cancer.
 + Bayesian probabilistic model, ensures platform-independent results.
 + The confidence level aids in clinical decision-making and supports the integration of clinical and histological data.
