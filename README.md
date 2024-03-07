@@ -24,6 +24,7 @@ If your samples contain the specified driver mutations (EGFR p.L858R, EGFR E19de
 Input format
 -------
 For MeTel.py input, a text file is prepared in the following format, constituting a union set of the somatic mutation profiles from two samples.
+Examples of input file is shown in "INPUT" directory.
 + 1st column: Sample ID
 + 2nd column: Gene
 + 3rd column: HGVSc 
@@ -38,3 +39,14 @@ Notes:
 
 Running
 --------
+**Command line interface**
+
+```
+python3 MeTel.py {input.txt} {output.txt} [Options]
+```
+
+**Options**
+```
+-s {syn, meta}, --synmeta {syn, meta}   Synchronocity Information (default : syn)
+-r {asian, non-asian} --race {asian, non-asian}    Race Mode (default : unspecified(use all population))
+```
