@@ -1,0 +1,1069 @@
+GENIE-MSK-P-0000280	GENIE-MSK-P-0000280-T01-IM3	63	LUAD	Primary	MSK-IMPACT341	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0000649	GENIE-MSK-P-0000649-T01-IM3	66	LUAD	Primary	MSK-IMPACT341	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0000858	GENIE-MSK-P-0000858-T01-IM3	77	LUAD	Primary	MSK-IMPACT341	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0000903	GENIE-MSK-P-0000903-T01-IM3	69	LUAD	Primary	MSK-IMPACT341	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0000978	GENIE-MSK-P-0000978-T02-IM5	59	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0001154	GENIE-MSK-P-0001154-T01-IM3	57	LUAD	Primary	MSK-IMPACT341	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0001300	GENIE-MSK-P-0001300-T01-IM3	51	LUAD	Primary	MSK-IMPACT341	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0001300	GENIE-MSK-P-0001300-T02-IM5	53	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0001368	GENIE-MSK-P-0001368-T01-IM3	58	LUAD	Primary	MSK-IMPACT341	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0001389	GENIE-MSK-P-0001389-T01-IM3	45	LUAD	Primary	MSK-IMPACT341	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0001390	GENIE-MSK-P-0001390-T01-IM3	55	LUAD	Primary	MSK-IMPACT341	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0001532	GENIE-MSK-P-0001532-T01-IM3	51	LUAD	Primary	MSK-IMPACT341	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0001613	GENIE-MSK-P-0001613-T01-IM3	60	LUAD	Primary	MSK-IMPACT341	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0001613	GENIE-MSK-P-0001613-T02-IM5	61	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0001665	GENIE-MSK-P-0001665-T01-IM3	47	LUAD	Primary	MSK-IMPACT341	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0002178	GENIE-MSK-P-0002178-T01-IM3	79	LUSC	Primary	MSK-IMPACT341	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-MSK-P-0002215	GENIE-MSK-P-0002215-T01-IM3	45	LUAD	Primary	MSK-IMPACT341	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0002338	GENIE-MSK-P-0002338-T01-IM3	57	LUAD	Primary	MSK-IMPACT341	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0002446	GENIE-MSK-P-0002446-T01-IM3	60	LUAD	Primary	MSK-IMPACT341	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0002485	GENIE-MSK-P-0002485-T01-IM3	44	LUSC	Primary	MSK-IMPACT341	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-MSK-P-0002491	GENIE-MSK-P-0002491-T01-IM3	43	LUAD	Primary	MSK-IMPACT341	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0002571	GENIE-MSK-P-0002571-T01-IM3	81	LUAD	Primary	MSK-IMPACT341	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0002646	GENIE-MSK-P-0002646-T01-IM3	42	LUAD	Primary	MSK-IMPACT341	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0002758	GENIE-MSK-P-0002758-T01-IM3	62	LUSC	Primary	MSK-IMPACT341	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-MSK-P-0002768	GENIE-MSK-P-0002768-T02-IM6	51	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0002873	GENIE-MSK-P-0002873-T01-IM3	56	LUAD	Primary	MSK-IMPACT341	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0002916	GENIE-MSK-P-0002916-T02-IM5	37	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0003070	GENIE-MSK-P-0003070-T01-IM5	46	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0003070	GENIE-MSK-P-0003070-T02-IM5	48	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0003119	GENIE-MSK-P-0003119-T01-IM5	53	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0003487	GENIE-MSK-P-0003487-T01-IM5	74	LUSC	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-MSK-P-0003505	GENIE-MSK-P-0003505-T01-IM5	55	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0003569	GENIE-MSK-P-0003569-T01-IM5	39	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0003734	GENIE-MSK-P-0003734-T01-IM5	68	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0004146	GENIE-MSK-P-0004146-T01-IM5	88	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0004613	GENIE-MSK-P-0004613-T01-IM5	60	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0004678	GENIE-MSK-P-0004678-T01-IM5	65	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0004752	GENIE-MSK-P-0004752-T01-IM5	85	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0004851	GENIE-MSK-P-0004851-T01-IM5	68	LUNE	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Large Cell Neuroendocrine Carcinoma	Primary tumor
+GENIE-MSK-P-0005264	GENIE-MSK-P-0005264-T03-IM6	78	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0005467	GENIE-MSK-P-0005467-T01-IM5	54	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0006116	GENIE-MSK-P-0006116-T01-IM5	76	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0006139	GENIE-MSK-P-0006139-T01-IM5	76	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0006561	GENIE-MSK-P-0006561-T02-IM5	49	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0006654	GENIE-MSK-P-0006654-T01-IM5	61	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0006654	GENIE-MSK-P-0006654-T02-IM6	62	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0006810	GENIE-MSK-P-0006810-T02-IM6	67	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0006873	GENIE-MSK-P-0006873-T01-IM5	46	LUSC	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-MSK-P-0007413	GENIE-MSK-P-0007413-T01-IM5	59	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0007487	GENIE-MSK-P-0007487-T01-IM5	86	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0007633	GENIE-MSK-P-0007633-T01-IM5	78	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0007681	GENIE-MSK-P-0007681-T01-IM5	73	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UHN-569698	GENIE-UHN-569698-ARC1	52	LUAD	Primary	UHN-48-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UHN-033821	GENIE-UHN-033821-ARC1	83	LUAD	Primary	UHN-48-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UHN-736770	GENIE-UHN-736770-ARC1	50	SARCL	Primary	UHN-48-V1	Non-Small Cell Lung Cancer	Sarcomatoid Carcinoma of the Lung	Primary tumor
+GENIE-UHN-945412	GENIE-UHN-945412-ARC1	44	LUAD	Primary	UHN-48-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UHN-523530	GENIE-UHN-523530-ARC1	68	LUAD	Primary	UHN-48-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UHN-743738	GENIE-UHN-743738-ARC1	48	LUAD	Primary	UHN-48-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UHN-786889	GENIE-UHN-786889-ARC1	74	LUAD	Primary	UHN-48-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UHN-019873	GENIE-UHN-019873-ARC1	72	LUAD	Primary	UHN-48-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UHN-655772	GENIE-UHN-655772-ARC1	59	LUAD	Primary	UHN-48-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UHN-198092	GENIE-UHN-198092-ARC1	78	LUAD	Primary	UHN-48-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UHN-650746	GENIE-UHN-650746-ARC1	76	LUAD	Primary	UHN-48-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UHN-982281	GENIE-UHN-982281-ARC1	56	LUAD	Primary	UHN-48-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UHN-373738	GENIE-UHN-373738-ARC1	76	LUAD	Primary	UHN-48-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-009330	GENIE-DFCI-009330-6514	65	LUSC	Primary	DFCI-ONCOPANEL-2	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-DFCI-003924	GENIE-DFCI-003924-1144	72	LUAD	Primary	DFCI-ONCOPANEL-1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-001087	GENIE-DFCI-001087-1613	74	LUAD	Primary	DFCI-ONCOPANEL-1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-005468	GENIE-DFCI-005468-2252	59	LUAD	Primary	DFCI-ONCOPANEL-1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-007510	GENIE-DFCI-007510-4163	42	LUAD	Primary	DFCI-ONCOPANEL-2	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-007663	GENIE-DFCI-007663-4627	50	LUAD	Primary	DFCI-ONCOPANEL-2	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-005436	GENIE-DFCI-005436-6121	65	LUSC	Primary	DFCI-ONCOPANEL-2	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-DFCI-001945	GENIE-DFCI-001945-7828	45	LUAD	Primary	DFCI-ONCOPANEL-2	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-001945	GENIE-DFCI-001945-8339	46	LUAD	Primary	DFCI-ONCOPANEL-2	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-00174	GENIE-JHU-00174-00427	61	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-00199	GENIE-JHU-00199-00379	60	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-00335	GENIE-JHU-00335-00540	77	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-00384	GENIE-JHU-00384-00652	63	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-00396	GENIE-JHU-00396-00614	40	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-00396	GENIE-JHU-00396-00621	40	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-00448	GENIE-JHU-00448-00062	79	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-00491	GENIE-JHU-00491-00066	75	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-00516	GENIE-JHU-00516-00086	75	LUSC	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-JHU-00516	GENIE-JHU-00516-01241	76	LUSC	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-JHU-00555	GENIE-JHU-00555-00190	81	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-00618	GENIE-JHU-00618-00677	72	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-00629	GENIE-JHU-00629-00700	70	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-00655	GENIE-JHU-00655-00777	68	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-00747	GENIE-JHU-00747-00845	63	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-00790	GENIE-JHU-00790-00974	76	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-00851	GENIE-JHU-00851-01044	60	LUSC	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-JHU-00868	GENIE-JHU-00868-01021	56	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-00881	GENIE-JHU-00881-01032	72	LUSC	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-JHU-00913	GENIE-JHU-00913-01056	51	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-00947	GENIE-JHU-00947-01096	74	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-01041	GENIE-JHU-01041-01136	69	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0009339	GENIE-MSK-P-0009339-T02-IM5	18	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0013056	GENIE-MSK-P-0013056-T01-IM5	32	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0012443	GENIE-MSK-P-0012443-T01-IM5	32	NSCLCPD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Poorly Differentiated Non-Small Cell Lung Cancer	Primary tumor
+GENIE-MSK-P-0007864	GENIE-MSK-P-0007864-T01-IM5	41	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0016204	GENIE-MSK-P-0016204-T01-IM6	45	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0010554	GENIE-MSK-P-0010554-T01-IM5	47	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0009164	GENIE-MSK-P-0009164-T01-IM5	48	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0015978	GENIE-MSK-P-0015978-T01-IM6	49	LUPC	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Pleomorphic Carcinoma of the Lung	Primary tumor
+GENIE-MSK-P-0014875	GENIE-MSK-P-0014875-T01-IM6	52	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0008289	GENIE-MSK-P-0008289-T01-IM5	52	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0010300	GENIE-MSK-P-0010300-T01-IM5	53	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0013600	GENIE-MSK-P-0013600-T01-IM5	53	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0012745	GENIE-MSK-P-0012745-T01-IM5	56	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0012008	GENIE-MSK-P-0012008-T01-IM5	56	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0012664	GENIE-MSK-P-0012664-T01-IM5	58	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0014468	GENIE-MSK-P-0014468-T02-IM6	60	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0012151	GENIE-MSK-P-0012151-T01-IM5	59	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0010359	GENIE-MSK-P-0010359-T01-IM5	61	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0009708	GENIE-MSK-P-0009708-T01-IM5	61	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0015359	GENIE-MSK-P-0015359-T01-IM6	61	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0012595	GENIE-MSK-P-0012595-T01-IM5	62	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0012595	GENIE-MSK-P-0012595-T02-IM5	62	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0014262	GENIE-MSK-P-0014262-T02-IM6	62	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0014262	GENIE-MSK-P-0014262-T03-IM7	67	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0014262	GENIE-MSK-P-0014262-T04-IM7	67	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0012111	GENIE-MSK-P-0012111-T01-IM5	62	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0010131	GENIE-MSK-P-0010131-T01-IM5	65	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0010927	GENIE-MSK-P-0010927-T02-IM5	65	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0013484	GENIE-MSK-P-0013484-T02-IM6	67	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0013342	GENIE-MSK-P-0013342-T01-IM5	67	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0010053	GENIE-MSK-P-0010053-T01-IM5	67	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0013437	GENIE-MSK-P-0013437-T01-IM5	67	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0009215	GENIE-MSK-P-0009215-T01-IM5	69	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0010700	GENIE-MSK-P-0010700-T01-IM5	69	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0013273	GENIE-MSK-P-0013273-T01-IM5	69	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0013273	GENIE-MSK-P-0013273-T03-IM5	69	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0013273	GENIE-MSK-P-0013273-T02-IM5	69	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0010801	GENIE-MSK-P-0010801-T01-IM5	69	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0010333	GENIE-MSK-P-0010333-T01-IM5	70	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0009487	GENIE-MSK-P-0009487-T01-IM5	70	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0015579	GENIE-MSK-P-0015579-T01-IM6	70	ALUCA	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Atypical Lung Carcinoid	Primary tumor
+GENIE-MSK-P-0012393	GENIE-MSK-P-0012393-T02-IM6	72	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0016503	GENIE-MSK-P-0016503-T01-IM6	72	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0016503	GENIE-MSK-P-0016503-T02-IM6	75	NSCLC	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Non-Small Cell Lung Cancer	Primary tumor
+GENIE-MSK-P-0009357	GENIE-MSK-P-0009357-T01-IM5	72	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0012782	GENIE-MSK-P-0012782-T01-IM5	72	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0016174	GENIE-MSK-P-0016174-T01-IM6	72	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0013351	GENIE-MSK-P-0013351-T01-IM5	73	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0014502	GENIE-MSK-P-0014502-T01-IM6	73	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0011234	GENIE-MSK-P-0011234-T01-IM5	75	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0011234	GENIE-MSK-P-0011234-T02-IM5	75	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0016350	GENIE-MSK-P-0016350-T01-IM6	75	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0012436	GENIE-MSK-P-0012436-T01-IM5	76	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0012436	GENIE-MSK-P-0012436-T02-IM6	79	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0012837	GENIE-MSK-P-0012837-T01-IM5	77	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0011543	GENIE-MSK-P-0011543-T01-IM5	78	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0014187	GENIE-MSK-P-0014187-T01-IM6	79	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0014187	GENIE-MSK-P-0014187-T02-IM6	79	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0009198	GENIE-MSK-P-0009198-T01-IM5	79	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0014525	GENIE-MSK-P-0014525-T01-IM6	79	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0014419	GENIE-MSK-P-0014419-T01-IM6	82	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0012061	GENIE-MSK-P-0012061-T01-IM5	82	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0012239	GENIE-MSK-P-0012239-T01-IM5	86	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0011397	GENIE-MSK-P-0011397-T01-IM5	>89	LUSC	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-MSK-P-0012562	GENIE-MSK-P-0012562-T01-IM5	>89	LUSC	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-VICC-358387	GENIE-VICC-358387-unk-1	73	LUAD	Primary	VICC-01-SOLIDTUMOR	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-VICC-409281	GENIE-VICC-409281-unk-1	33	LUAD	Primary	VICC-01-SOLIDTUMOR	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-002804	GENIE-DFCI-002804-3039	75	LUAD	Primary	DFCI-ONCOPANEL-1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-002804	GENIE-DFCI-002804-4288806	82	LUAD	Primary	DFCI-ONCOPANEL-3.1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-002551	GENIE-DFCI-002551-9310	66	LUAD	Primary	DFCI-ONCOPANEL-2	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-003399	GENIE-DFCI-003399-3824603	73	LUAD	Primary	DFCI-ONCOPANEL-3.1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-003481	GENIE-DFCI-003481-8188	60	LUAD	Primary	DFCI-ONCOPANEL-2	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-003730	GENIE-DFCI-003730-10082	71	LUAD	Primary	DFCI-ONCOPANEL-2	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-007568	GENIE-DFCI-007568-3926	42	LUAD	Primary	DFCI-ONCOPANEL-2	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-005692	GENIE-DFCI-005692-3040	62	LUAD	Primary	DFCI-ONCOPANEL-1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-007707	GENIE-DFCI-007707-88533	64	LUSC	Primary	DFCI-ONCOPANEL-3	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-DFCI-032479	GENIE-DFCI-032479-74626	57	LUAD	Primary	DFCI-ONCOPANEL-3	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-010365	GENIE-DFCI-010365-9955	36	LUAD	Primary	DFCI-ONCOPANEL-2	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-009206	GENIE-DFCI-009206-8183	30	LUAD	Primary	DFCI-ONCOPANEL-2	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-008556	GENIE-DFCI-008556-7314	81	LUAD	Primary	DFCI-ONCOPANEL-2	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-009770	GENIE-DFCI-009770-6995	64	LUAD	Primary	DFCI-ONCOPANEL-2	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-009770	GENIE-DFCI-009770-10452	65	LUAD	Primary	DFCI-ONCOPANEL-2	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-009841	GENIE-DFCI-009841-7978	55	LUAD	Primary	DFCI-ONCOPANEL-2	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-009605	GENIE-DFCI-009605-9117	65	LUAD	Primary	DFCI-ONCOPANEL-2	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-010894	GENIE-DFCI-010894-8825	56	LUAD	Primary	DFCI-ONCOPANEL-2	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-010656	GENIE-DFCI-010656-9868	53	LUAD	Primary	DFCI-ONCOPANEL-2	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-006448	GENIE-DFCI-006448-4326	68	LUAD	Primary	DFCI-ONCOPANEL-2	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-010136	GENIE-DFCI-010136-9790	67	LUAD	Primary	DFCI-ONCOPANEL-2	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-011371	GENIE-DFCI-011371-10451	41	LUAD	Primary	DFCI-ONCOPANEL-2	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-011446	GENIE-DFCI-011446-10480	51	LUAD	Primary	DFCI-ONCOPANEL-2	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-011545	GENIE-DFCI-011545-11680	65	LUAD	Primary	DFCI-ONCOPANEL-2	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-026750	GENIE-DFCI-026750-36062	83	LUAD	Primary	DFCI-ONCOPANEL-2	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-024486	GENIE-DFCI-024486-74679	60	LUAD	Primary	DFCI-ONCOPANEL-3	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-037068	GENIE-DFCI-037068-88561	69	LUAD	Primary	DFCI-ONCOPANEL-3	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-034062	GENIE-DFCI-034062-88697	55	LUAD	Primary	DFCI-ONCOPANEL-3	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UHN-804133	GENIE-UHN-804133-ARC1	66	LUAD	Primary	UHN-48-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UHN-860207	GENIE-UHN-860207-ARC1	51	LUAD	Primary	UHN-48-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UHN-096996	GENIE-UHN-096996-ARC1	65	LUAD	Primary	UHN-48-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MDA-3964	GENIE-MDA-3964-6804	71	LUAD	Primary	MDA-50-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MDA-6041	GENIE-MDA-6041-28181	69	LUAD	Primary	MDA-50-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MDA-726	GENIE-MDA-726-1651	55	LUAD	Primary	MDA-46-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-01198	GENIE-JHU-01198-01544	68	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-01422	GENIE-JHU-01422-01794	70	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-01422	GENIE-JHU-01422-02423	71	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-01614	GENIE-JHU-01614-02077	67	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-01779	GENIE-JHU-01779-02183	69	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-02056	GENIE-JHU-02056-02492	73	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-02095	GENIE-JHU-02095-02533	60	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-02110	GENIE-JHU-02110-02548	60	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-02178	GENIE-JHU-02178-02624	72	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-02179	GENIE-JHU-02179-02625	71	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-02206	GENIE-JHU-02206-02655	71	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-02438	GENIE-JHU-02438-02909	72	NSCLCPD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Poorly Differentiated Non-Small Cell Lung Cancer	Primary tumor
+GENIE-JHU-02462	GENIE-JHU-02462-02936	71	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-02546	GENIE-JHU-02546-03032	84	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-02662	GENIE-JHU-02662-03162	73	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-02678	GENIE-JHU-02678-03182	60	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-02690	GENIE-JHU-02690-03197	36	NSCLC	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Non-Small Cell Lung Cancer	Primary tumor
+GENIE-JHU-02707	GENIE-JHU-02707-03513	61	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-02754	GENIE-JHU-02754-03267	55	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-02788	GENIE-JHU-02788-03308	46	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-03013	GENIE-JHU-03013-03553	44	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-03026	GENIE-JHU-03026-03568	79	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-03162	GENIE-JHU-03162-03720	60	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-03186	GENIE-JHU-03186-03749	82	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-03190	GENIE-JHU-03190-03753	68	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-03293	GENIE-JHU-03293-03869	80	LUAS	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenosquamous Carcinoma	Primary tumor
+GENIE-JHU-03342	GENIE-JHU-03342-03926	49	LAIS	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma In Situ	Primary tumor
+GENIE-JHU-03378	GENIE-JHU-03378-03965	57	NSCLC	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Non-Small Cell Lung Cancer	Primary tumor
+GENIE-JHU-03437	GENIE-JHU-03437-04031	62	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-03464	GENIE-JHU-03464-04061	44	LUSC	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-JHU-03715	GENIE-JHU-03715-04352	55	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-03740	GENIE-JHU-03740-04379	73	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0016910	GENIE-MSK-P-0016910-T01-IM6	69	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0016917	GENIE-MSK-P-0016917-T02-IM6	49	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0016917	GENIE-MSK-P-0016917-T01-IM6	49	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0016917	GENIE-MSK-P-0016917-T03-IM6	52	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0017198	GENIE-MSK-P-0017198-T01-IM6	67	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0017196	GENIE-MSK-P-0017196-T01-IM6	68	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0017196	GENIE-MSK-P-0017196-T03-IM6	71	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0017196	GENIE-MSK-P-0017196-T05-IM7	73	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0017329	GENIE-MSK-P-0017329-T01-IM6	>89	LUSC	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-MSK-P-0017389	GENIE-MSK-P-0017389-T01-IM6	48	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0017803	GENIE-MSK-P-0017803-T01-IM6	80	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0001243	GENIE-MSK-P-0001243-T02-IM6	64	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0017976	GENIE-MSK-P-0017976-T01-IM6	68	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0017904	GENIE-MSK-P-0017904-T01-IM6	54	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0018205	GENIE-MSK-P-0018205-T01-IM6	71	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0018980	GENIE-MSK-P-0018980-T01-IM6	60	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0018916	GENIE-MSK-P-0018916-T01-IM6	60	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0018969	GENIE-MSK-P-0018969-T01-IM6	65	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0019128	GENIE-MSK-P-0019128-T02-IM6	84	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0019070	GENIE-MSK-P-0019070-T01-IM6	74	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0019172	GENIE-MSK-P-0019172-T01-IM6	69	NSCLC	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Non-Small Cell Lung Cancer	Primary tumor
+GENIE-MSK-P-0018682	GENIE-MSK-P-0018682-T01-IM6	83	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0017594	GENIE-MSK-P-0017594-T01-IM5	78	LUAD	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0017386	GENIE-MSK-P-0017386-T06-IM6	61	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0018487	GENIE-MSK-P-0018487-T01-IM6	77	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0019647	GENIE-MSK-P-0019647-T01-IM6	52	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0019559	GENIE-MSK-P-0019559-T01-IM6	70	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0018979	GENIE-MSK-P-0018979-T01-IM6	63	NSCLC	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Non-Small Cell Lung Cancer	Primary tumor
+GENIE-MSK-P-0017735	GENIE-MSK-P-0017735-T01-IM6	66	LUSC	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-MSK-P-0017794	GENIE-MSK-P-0017794-T01-IM6	49	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0017013	GENIE-MSK-P-0017013-T01-IM6	57	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0019414	GENIE-MSK-P-0019414-T01-IM6	65	NSCLC	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Non-Small Cell Lung Cancer	Primary tumor
+GENIE-MSK-P-0019696	GENIE-MSK-P-0019696-T01-IM6	62	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0019852	GENIE-MSK-P-0019852-T02-IM6	54	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0019857	GENIE-MSK-P-0019857-T01-IM6	66	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0019802	GENIE-MSK-P-0019802-T01-IM6	53	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0020170	GENIE-MSK-P-0020170-T01-IM6	60	NSCLC	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Non-Small Cell Lung Cancer	Primary tumor
+GENIE-MSK-P-0020259	GENIE-MSK-P-0020259-T01-IM6	70	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0020138	GENIE-MSK-P-0020138-T01-IM6	56	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0020076	GENIE-MSK-P-0020076-T01-IM6	61	LUPC	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Pleomorphic Carcinoma of the Lung	Primary tumor
+GENIE-MSK-P-0020076	GENIE-MSK-P-0020076-T02-IM6	61	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0020076	GENIE-MSK-P-0020076-T03-IM6	62	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0020825	GENIE-MSK-P-0020825-T01-IM6	67	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0020825	GENIE-MSK-P-0020825-T03-IM6	68	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0021054	GENIE-MSK-P-0021054-T01-IM6	81	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0020955	GENIE-MSK-P-0020955-T01-IM6	73	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0020955	GENIE-MSK-P-0020955-T03-IM6	75	NSCLC	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Non-Small Cell Lung Cancer	Primary tumor
+GENIE-MSK-P-0020674	GENIE-MSK-P-0020674-T01-IM6	64	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0021326	GENIE-MSK-P-0021326-T01-IM6	59	LUCA	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Carcinoid	Primary tumor
+GENIE-MSK-P-0017551	GENIE-MSK-P-0017551-T01-IM5	82	LUSC	Primary	MSK-IMPACT410	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-MSK-P-0020137	GENIE-MSK-P-0020137-T01-IM6	80	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0020672	GENIE-MSK-P-0020672-T01-IM6	27	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-079388	GENIE-DFCI-079388-281939	66	NSCLC	Primary	DFCI-ONCOPANEL-3	Non-Small Cell Lung Cancer	Non-Small Cell Lung Cancer	Primary tumor
+GENIE-DFCI-037368	GENIE-DFCI-037368-130645	53	LUAD	Primary	DFCI-ONCOPANEL-3	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-036829	GENIE-DFCI-036829-158938	67	NSCLC	Primary	DFCI-ONCOPANEL-3	Non-Small Cell Lung Cancer	Non-Small Cell Lung Cancer	Primary tumor
+GENIE-DFCI-053005	GENIE-DFCI-053005-218459	<18	PPB	Primary	DFCI-ONCOPANEL-3	Non-Small Cell Lung Cancer	Pleuropulmonary Blastoma	Primary tumor
+GENIE-DFCI-053476	GENIE-DFCI-053476-250281	59	LUAD	Primary	DFCI-ONCOPANEL-3	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-089507	GENIE-DFCI-089507-266102	71	LUAD	Primary	DFCI-ONCOPANEL-3	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UHN-OCT888181	GENIE-UHN-OCT888181-ARC1	62	LUAD	Primary	UHN-555-LUNG-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UHN-OCT701811	GENIE-UHN-OCT701811-ARC1	66	NSCLCPD	Primary	UHN-555-LUNG-V1	Non-Small Cell Lung Cancer	Poorly Differentiated Non-Small Cell Lung Cancer	Primary tumor
+GENIE-JHU-01870	GENIE-JHU-01870-02281	87	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-01870	GENIE-JHU-01870-04201	>89	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MDA-6674	GENIE-MDA-6674-18580	55	LUAD	Primary	MDA-409-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-VICC-729177	GENIE-VICC-729177-unk-1	57	LUAD	Primary	VICC-01-T7	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-108886	GENIE-DFCI-108886-526588	65	NSCLC	Primary	DFCI-ONCOPANEL-3	Non-Small Cell Lung Cancer	Non-Small Cell Lung Cancer	Primary tumor
+GENIE-DFCI-008085	GENIE-DFCI-008085-8477	38	LUAD	Primary	DFCI-ONCOPANEL-2	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-106247	GENIE-DFCI-106247-436774	48	NSCLC	Primary	DFCI-ONCOPANEL-3	Non-Small Cell Lung Cancer	Non-Small Cell Lung Cancer	Primary tumor
+GENIE-DFCI-107582	GENIE-DFCI-107582-436252	67	LUAD	Primary	DFCI-ONCOPANEL-3	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-084760	GENIE-DFCI-084760-350606	60	NSCLC	Primary	DFCI-ONCOPANEL-3	Non-Small Cell Lung Cancer	Non-Small Cell Lung Cancer	Primary tumor
+GENIE-DFCI-093722	GENIE-DFCI-093722-481450	82	LUAD	Primary	DFCI-ONCOPANEL-3	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-111109	GENIE-DFCI-111109-617742	55	LUAD	Primary	DFCI-ONCOPANEL-3	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UHN-OCT189698	GENIE-UHN-OCT189698-ARC1	80	LUAD	Primary	UHN-555-LUNG-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0021429	GENIE-MSK-P-0021429-T01-IM6	66	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0021500	GENIE-MSK-P-0021500-T01-IM6	77	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0021574	GENIE-MSK-P-0021574-T01-IM6	49	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0021727	GENIE-MSK-P-0021727-T01-IM6	78	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0021831	GENIE-MSK-P-0021831-T01-IM6	58	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0021837	GENIE-MSK-P-0021837-T01-IM6	64	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0021837	GENIE-MSK-P-0021837-T03-IM7	68	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0021839	GENIE-MSK-P-0021839-T01-IM6	64	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0021861	GENIE-MSK-P-0021861-T01-IM6	72	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0021918	GENIE-MSK-P-0021918-T01-IM6	48	LUSC	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-MSK-P-0022365	GENIE-MSK-P-0022365-T01-IM6	49	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0022424	GENIE-MSK-P-0022424-T01-IM6	68	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0022578	GENIE-MSK-P-0022578-T01-IM6	69	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0022578	GENIE-MSK-P-0022578-T02-IM6	69	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0022644	GENIE-MSK-P-0022644-T01-IM6	52	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0022819	GENIE-MSK-P-0022819-T01-IM6	52	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0022951	GENIE-MSK-P-0022951-T01-IM6	67	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0022951	GENIE-MSK-P-0022951-T03-IM6	67	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0023051	GENIE-MSK-P-0023051-T01-IM6	51	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0023102	GENIE-MSK-P-0023102-T01-IM6	61	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0023161	GENIE-MSK-P-0023161-T01-IM6	76	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0023206	GENIE-MSK-P-0023206-T01-IM6	80	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0023219	GENIE-MSK-P-0023219-T01-IM6	79	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0023248	GENIE-MSK-P-0023248-T01-IM6	68	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0023381	GENIE-MSK-P-0023381-T01-IM6	70	LUAS	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenosquamous Carcinoma	Primary tumor
+GENIE-MSK-P-0023476	GENIE-MSK-P-0023476-T01-IM6	66	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0023476	GENIE-MSK-P-0023476-T02-IM6	66	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0023476	GENIE-MSK-P-0023476-T03-IM6	66	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0023574	GENIE-MSK-P-0023574-T01-IM6	59	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0023671	GENIE-MSK-P-0023671-T01-IM6	66	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0023671	GENIE-MSK-P-0023671-T02-IM6	68	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0023704	GENIE-MSK-P-0023704-T01-IM6	65	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0023791	GENIE-MSK-P-0023791-T01-IM6	68	NSCLC	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Non-Small Cell Lung Cancer	Primary tumor
+GENIE-MSK-P-0023860	GENIE-MSK-P-0023860-T01-IM6	30	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0023910	GENIE-MSK-P-0023910-T01-IM6	62	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0024131	GENIE-MSK-P-0024131-T01-IM6	66	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0024493	GENIE-MSK-P-0024493-T01-IM6	51	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0024636	GENIE-MSK-P-0024636-T01-IM6	66	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0024670	GENIE-MSK-P-0024670-T01-IM6	68	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0024670	GENIE-MSK-P-0024670-T02-IM6	70	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0024841	GENIE-MSK-P-0024841-T01-IM6	59	LUSC	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-MSK-P-0025040	GENIE-MSK-P-0025040-T01-IM6	74	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0025152	GENIE-MSK-P-0025152-T01-IM6	68	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0025531	GENIE-MSK-P-0025531-T01-IM6	78	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0025601	GENIE-MSK-P-0025601-T02-IM6	61	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0025652	GENIE-MSK-P-0025652-T01-IM6	62	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0025713	GENIE-MSK-P-0025713-T01-IM6	68	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0025713	GENIE-MSK-P-0025713-T02-IM6	68	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-03400	GENIE-JHU-03400-03989	50	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-03417	GENIE-JHU-03417-04009	84	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-03429	GENIE-JHU-03429-04022	57	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-03507	GENIE-JHU-03507-04108	70	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-03525	GENIE-JHU-03525-04129	62	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-03621	GENIE-JHU-03621-04240	71	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-03636	GENIE-JHU-03636-04257	74	NSCLCPD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Poorly Differentiated Non-Small Cell Lung Cancer	Primary tumor
+GENIE-JHU-03802	GENIE-JHU-03802-04453	62	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-03819	GENIE-JHU-03819-04471	65	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-03831	GENIE-JHU-03831-04488	73	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-03908	GENIE-JHU-03908-04567	68	NSCLC	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Non-Small Cell Lung Cancer	Primary tumor
+GENIE-JHU-03953	GENIE-JHU-03953-04615	52	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-04011	GENIE-JHU-04011-04683	76	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-04043	GENIE-JHU-04043-04718	73	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-04089	GENIE-JHU-04089-04772	56	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-04103	GENIE-JHU-04103-04786	51	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-04136	GENIE-JHU-04136-04825	75	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-04175	GENIE-JHU-04175-04870	61	LUSC	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-JHU-04235	GENIE-JHU-04235-04932	83	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-04240	GENIE-JHU-04240-04937	87	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-04282	GENIE-JHU-04282-04986	74	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-WAKE-C1531	GENIE-WAKE-C1531-01	62	LUAD	Primary	WAKE-CA-NGSQ3	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-WAKE-C1481	GENIE-WAKE-C1481-01	61	LUAD	Primary	WAKE-CA-NGSQ3	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0024561	GENIE-MSK-P-0024561-T01-IM6	68	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UHN-OCT249757	GENIE-UHN-OCT249757-ARC1	46	LUAD	Primary	UHN-555-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-VICC-315744	GENIE-VICC-315744-unk-1	79	LUAD	Primary	VICC-01-SOLIDTUMOR	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-VICC-338166	GENIE-VICC-338166-unk-1	57	LUAD	Primary	VICC-01-SOLIDTUMOR	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-VICC-697994	GENIE-VICC-697994-unk-1	66	LUAD	Primary	VICC-01-SOLIDTUMOR	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-1486	GENIE-UCSF-1486-1673T	68	LUSC	Primary	UCSF-NIMV4-TN	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-UCSF-1521	GENIE-UCSF-1521-1989T	56	LAIS	Primary	UCSF-NIMV4-TN	Non-Small Cell Lung Cancer	Lung Adenocarcinoma In Situ	Primary tumor
+GENIE-UCSF-387	GENIE-UCSF-387-539T	60	LUSC	Primary	UCSF-NIMV4-TN	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-UCSF-589	GENIE-UCSF-589-736T	53	LUAD	Primary	UCSF-NIMV4-TN	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-611	GENIE-UCSF-611-1057T	43	LUAD	Primary	UCSF-NIMV4-TN	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-611	GENIE-UCSF-611-764T	43	LUAD	Primary	UCSF-NIMV4-TN	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-940	GENIE-UCSF-940-1104T	82	LUAD	Primary	UCSF-NIMV4-TN	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-SCI-5003982662	GENIE-SCI-5003982662-U3231313Q0	76	LUAD	Primary	SCI-PMP68-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0026136	GENIE-MSK-P-0026136-T03-IM6	71	NSCLC	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Non-Small Cell Lung Cancer	Primary tumor
+GENIE-MSK-P-0026292	GENIE-MSK-P-0026292-T01-IM6	68	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0026455	GENIE-MSK-P-0026455-T01-IM6	36	NSCLC	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Non-Small Cell Lung Cancer	Primary tumor
+GENIE-MSK-P-0026535	GENIE-MSK-P-0026535-T01-IM6	77	LUSC	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-MSK-P-0027146	GENIE-MSK-P-0027146-T01-IM6	70	LUAS	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenosquamous Carcinoma	Primary tumor
+GENIE-MSK-P-0027199	GENIE-MSK-P-0027199-T01-IM6	54	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0027351	GENIE-MSK-P-0027351-T01-IM6	71	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0027351	GENIE-MSK-P-0027351-T02-IM6	72	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0027353	GENIE-MSK-P-0027353-T01-IM6	61	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0027353	GENIE-MSK-P-0027353-T02-IM7	64	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0027353	GENIE-MSK-P-0027353-T03-IM7	64	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0027353	GENIE-MSK-P-0027353-T04-IM7	64	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0027353	GENIE-MSK-P-0027353-T05-IM7	64	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0027419	GENIE-MSK-P-0027419-T03-IM6	49	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0027615	GENIE-MSK-P-0027615-T02-IM6	66	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0027633	GENIE-MSK-P-0027633-T01-IM6	77	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0027660	GENIE-MSK-P-0027660-T01-IM6	77	LUSC	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-MSK-P-0027664	GENIE-MSK-P-0027664-T01-IM6	68	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0027762	GENIE-MSK-P-0027762-T01-IM6	49	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0027828	GENIE-MSK-P-0027828-T02-IM6	67	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0028006	GENIE-MSK-P-0028006-T01-IM6	61	NSCLC	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Non-Small Cell Lung Cancer	Primary tumor
+GENIE-MSK-P-0028031	GENIE-MSK-P-0028031-T01-IM6	79	LUSC	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-MSK-P-0028283	GENIE-MSK-P-0028283-T02-IM6	52	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0028283	GENIE-MSK-P-0028283-T03-IM6	54	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0028486	GENIE-MSK-P-0028486-T01-IM6	62	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0028486	GENIE-MSK-P-0028486-T02-IM6	62	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0028746	GENIE-MSK-P-0028746-T01-IM6	68	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0028893	GENIE-MSK-P-0028893-T01-IM6	67	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0028893	GENIE-MSK-P-0028893-T03-IM6	68	LUSC	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-MSK-P-0028938	GENIE-MSK-P-0028938-T01-IM6	72	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0028947	GENIE-MSK-P-0028947-T01-IM6	77	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0029112	GENIE-MSK-P-0029112-T01-IM6	63	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0029115	GENIE-MSK-P-0029115-T01-IM6	68	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0029142	GENIE-MSK-P-0029142-T01-IM6	67	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0029532	GENIE-MSK-P-0029532-T01-IM6	62	NSCLC	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Non-Small Cell Lung Cancer	Primary tumor
+GENIE-MSK-P-0029532	GENIE-MSK-P-0029532-T03-IM6	62	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0029971	GENIE-MSK-P-0029971-T01-IM6	69	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0030053	GENIE-MSK-P-0030053-T02-IM6	65	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0030319	GENIE-MSK-P-0030319-T02-IM7	77	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0030358	GENIE-MSK-P-0030358-T01-IM6	61	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0030542	GENIE-MSK-P-0030542-T01-IM6	72	NSCLC	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Non-Small Cell Lung Cancer	Primary tumor
+GENIE-MSK-P-0030990	GENIE-MSK-P-0030990-T03-IM6	34	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0031081	GENIE-MSK-P-0031081-T01-IM6	73	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0031340	GENIE-MSK-P-0031340-T02-IM6	67	NSCLC	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Non-Small Cell Lung Cancer	Primary tumor
+GENIE-MSK-P-0031470	GENIE-MSK-P-0031470-T01-IM6	81	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0031470	GENIE-MSK-P-0031470-T02-IM6	81	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-COLU-00214	GENIE-COLU-00214-01	55	LUAD	Primary	COLU-TSACP-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-COLU-00214	GENIE-COLU-00214-02	55	LAIS	Primary	COLU-TSACP-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma In Situ	Primary tumor
+GENIE-COLU-00271	GENIE-COLU-00271-01	34	LUAD	Primary	COLU-TSACP-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-COLU-00274	GENIE-COLU-00274-01	45	LUAD	Primary	COLU-TSACP-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-106718	GENIE-DFCI-106718-805265	50	LUAD	Primary	DFCI-ONCOPANEL-3	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-108450	GENIE-DFCI-108450-950809	60	LUAD	Primary	DFCI-ONCOPANEL-3.1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-117915	GENIE-DFCI-117915-853486	55	LUAD	Primary	DFCI-ONCOPANEL-3	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-132929	GENIE-DFCI-132929-3239033	53	LUSC	Primary	DFCI-ONCOPANEL-3.1	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-MSK-P-0014304	GENIE-MSK-P-0014304-T02-IM6	39	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0028809	GENIE-MSK-P-0028809-T04-IM6	56	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0031738	GENIE-MSK-P-0031738-T01-IM6	56	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0031891	GENIE-MSK-P-0031891-T01-IM6	80	LUSC	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-MSK-P-0031911	GENIE-MSK-P-0031911-T02-IM6	25	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0032124	GENIE-MSK-P-0032124-T01-IM6	79	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0032170	GENIE-MSK-P-0032170-T01-IM6	72	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0032286	GENIE-MSK-P-0032286-T01-IM6	64	LUSC	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-MSK-P-0032513	GENIE-MSK-P-0032513-T01-IM6	69	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0032682	GENIE-MSK-P-0032682-T01-IM6	75	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0032827	GENIE-MSK-P-0032827-T02-IM6	61	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0032833	GENIE-MSK-P-0032833-T01-IM6	45	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0033085	GENIE-MSK-P-0033085-T01-IM6	56	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0033150	GENIE-MSK-P-0033150-T01-IM6	60	LUNE	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Large Cell Neuroendocrine Carcinoma	Primary tumor
+GENIE-MSK-P-0033417	GENIE-MSK-P-0033417-T02-IM6	83	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0033749	GENIE-MSK-P-0033749-T01-IM6	49	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0033764	GENIE-MSK-P-0033764-T02-IM6	55	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0033764	GENIE-MSK-P-0033764-T04-IM6	56	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0033974	GENIE-MSK-P-0033974-T01-IM6	74	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0034366	GENIE-MSK-P-0034366-T01-IM6	73	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0034604	GENIE-MSK-P-0034604-T01-IM6	73	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0034609	GENIE-MSK-P-0034609-T01-IM6	71	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0034643	GENIE-MSK-P-0034643-T01-IM6	81	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0035488	GENIE-MSK-P-0035488-T01-IM6	75	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0035558	GENIE-MSK-P-0035558-T01-IM6	71	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0035851	GENIE-MSK-P-0035851-T01-IM6	63	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0035851	GENIE-MSK-P-0035851-T02-IM6	63	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0036092	GENIE-MSK-P-0036092-T01-IM6	56	LNET	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Neuroendocrine Tumor	Primary tumor
+GENIE-MSK-P-0036234	GENIE-MSK-P-0036234-T01-IM6	55	LUSC	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-MSK-P-0036667	GENIE-MSK-P-0036667-T01-IM6	74	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0036969	GENIE-MSK-P-0036969-T01-IM6	59	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UHN-OCT685664	GENIE-UHN-OCT685664-ARC1	62	LUAD	Primary	UHN-555-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-COLU-00441	GENIE-COLU-00441-01	63	LUAD	Primary	COLU-TSACP-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-COLU-00455	GENIE-COLU-00455-01	55	LUAD	Primary	COLU-TSACP-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-COLU-00455	GENIE-COLU-00455-02	55	LUAD	Primary	COLU-TSACP-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-COLU-00562	GENIE-COLU-00562-01	72	LUAD	Primary	COLU-TSACP-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-COLU-771	GENIE-COLU-771-1	73	LUAD	Primary	COLU-TSACP-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-00022	GENIE-JHU-00022-00241	76	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-00061	GENIE-JHU-00061-00299	74	LUAS	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenosquamous Carcinoma	Primary tumor
+GENIE-JHU-04430	GENIE-JHU-04430-05162	74	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-04632	GENIE-JHU-04632-05401	82	NSCLC	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Non-Small Cell Lung Cancer	Primary tumor
+GENIE-JHU-04652	GENIE-JHU-04652-05425	45	LUAD	Primary	JHU-500STP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-04756	GENIE-JHU-04756-05542	68	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-04777	GENIE-JHU-04777-05568	75	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-04844	GENIE-JHU-04844-05644	75	LUSC	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-JHU-04915	GENIE-JHU-04915-05723	73	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-05197	GENIE-JHU-05197-06028	68	LUSC	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-JHU-05613	GENIE-JHU-05613-06492	54	NSCLC	Primary	JHU-500STP	Non-Small Cell Lung Cancer	Non-Small Cell Lung Cancer	Primary tumor
+GENIE-JHU-05691	GENIE-JHU-05691-06579	82	LUAD	Primary	JHU-500STP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-06053	GENIE-JHU-06053-06982	70	LUAD	Primary	JHU-500STP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-06201	GENIE-JHU-06201-07135	70	LUAD	Primary	JHU-500STP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-06386	GENIE-JHU-06386-07332	82	LUAD	Primary	JHU-500STP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-06528	GENIE-JHU-06528-07485	49	LUAD	Primary	JHU-500STP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-06530	GENIE-JHU-06530-07488	52	LUAD	Primary	JHU-500STP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-07107	GENIE-JHU-07107-08088	71	LUAD	Primary	JHU-500STP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-167544	GENIE-DFCI-167544-1615478	81	LUAD	Primary	DFCI-ONCOPANEL-3.1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0031258	GENIE-MSK-P-0031258-T03-IM6	75	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0037326	GENIE-MSK-P-0037326-T01-IM6	68	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0037367	GENIE-MSK-P-0037367-T01-IM6	48	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0038022	GENIE-MSK-P-0038022-T01-IM6	79	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0038099	GENIE-MSK-P-0038099-T01-IM6	69	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0038121	GENIE-MSK-P-0038121-T01-IM6	55	NSCLC	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Non-Small Cell Lung Cancer	Primary tumor
+GENIE-MSK-P-0038445	GENIE-MSK-P-0038445-T01-IM6	50	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0039604	GENIE-MSK-P-0039604-T01-IM6	72	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0039859	GENIE-MSK-P-0039859-T01-IM6	56	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0039945	GENIE-MSK-P-0039945-T01-IM6	67	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0040060	GENIE-MSK-P-0040060-T01-IM6	50	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0040078	GENIE-MSK-P-0040078-T01-IM6	69	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0040079	GENIE-MSK-P-0040079-T01-IM6	71	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0040135	GENIE-MSK-P-0040135-T01-IM6	54	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0040295	GENIE-MSK-P-0040295-T01-IM6	76	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0040570	GENIE-MSK-P-0040570-T01-IM6	62	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0040576	GENIE-MSK-P-0040576-T01-IM6	40	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0040600	GENIE-MSK-P-0040600-T01-IM6	54	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0041174	GENIE-MSK-P-0041174-T01-IM6	74	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0041210	GENIE-MSK-P-0041210-T01-IM6	79	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0041305	GENIE-MSK-P-0041305-T01-IM6	56	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0041506	GENIE-MSK-P-0041506-T01-IM6	66	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0041835	GENIE-MSK-P-0041835-T01-IM6	79	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0041893	GENIE-MSK-P-0041893-T03-IM6	48	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0042034	GENIE-MSK-P-0042034-T01-IM6	44	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0042088	GENIE-MSK-P-0042088-T01-IM6	51	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0042240	GENIE-MSK-P-0042240-T01-IM6	69	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0042240	GENIE-MSK-P-0042240-T02-IM6	69	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0042240	GENIE-MSK-P-0042240-T03-IM6	69	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0042506	GENIE-MSK-P-0042506-T01-IM6	57	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0042736	GENIE-MSK-P-0042736-T01-IM6	59	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0042755	GENIE-MSK-P-0042755-T01-IM6	52	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0043020	GENIE-MSK-P-0043020-T01-IM6	56	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0043375	GENIE-MSK-P-0043375-T01-IM6	62	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0043478	GENIE-MSK-P-0043478-T01-IM6	54	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0043480	GENIE-MSK-P-0043480-T01-IM6	28	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0043597	GENIE-MSK-P-0043597-T01-IM6	59	LUSC	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-MSK-P-0043597	GENIE-MSK-P-0043597-T02-IM6	60	LUSC	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-MSK-P-0043656	GENIE-MSK-P-0043656-T02-IM6	68	NSCLC	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Non-Small Cell Lung Cancer	Primary tumor
+GENIE-MSK-P-0043972	GENIE-MSK-P-0043972-T03-IM6	79	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0044365	GENIE-MSK-P-0044365-T01-IM6	69	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0044387	GENIE-MSK-P-0044387-T01-IM6	66	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0044470	GENIE-MSK-P-0044470-T02-IM6	44	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0044639	GENIE-MSK-P-0044639-T01-IM6	67	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0044648	GENIE-MSK-P-0044648-T01-IM6	49	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0044913	GENIE-MSK-P-0044913-T01-IM6	71	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UHN-OCT622232	GENIE-UHN-OCT622232-ARC1	58	NSCLCPD	Primary	UHN-OCA-V3	Non-Small Cell Lung Cancer	Poorly Differentiated Non-Small Cell Lung Cancer	Primary tumor
+GENIE-UCSF-3138	GENIE-UCSF-3138-8380T	87	LUAD	Primary	UCSF-NIMV4-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-3380	GENIE-UCSF-3380-5413T	72	LUAD	Primary	UCSF-NIMV4-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-3380	GENIE-UCSF-3380-3849T	72	LUAD	Primary	UCSF-NIMV4-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-VHIO-571	GENIE-VHIO-571-001	51	NSCLC	Primary	VHIO-LUNG-V01	Non-Small Cell Lung Cancer	Non-Small Cell Lung Cancer	Primary tumor
+GENIE-JHU-00065	GENIE-JHU-00065-00303	59	NSCLC	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Non-Small Cell Lung Cancer	Primary tumor
+GENIE-VICC-358565	GENIE-VICC-358565-unk-1	64	LUSC	Primary	VICC-01-DX1	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-COLU-1000	GENIE-COLU-1000-1	77	LUAD	Primary	COLU-CSTP-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-01075	GENIE-JHU-01075-01237	48	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0049977	GENIE-MSK-P-0049977-T01-IM6	48	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0047355	GENIE-MSK-P-0047355-T02-IM6	87	LUSC	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-MSK-P-0047474	GENIE-MSK-P-0047474-T02-IM6	72	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0047203	GENIE-MSK-P-0047203-T01-IM6	61	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0050532	GENIE-MSK-P-0050532-T03-IM7	73	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0047037	GENIE-MSK-P-0047037-T02-IM6	70	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0049375	GENIE-MSK-P-0049375-T02-IM6	35	SARCL	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Sarcomatoid Carcinoma of the Lung	Primary tumor
+GENIE-MSK-P-0050384	GENIE-MSK-P-0050384-T01-IM6	76	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0045614	GENIE-MSK-P-0045614-T01-IM6	56	LUSC	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-MSK-P-0045644	GENIE-MSK-P-0045644-T01-IM6	57	LUNE	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Large Cell Neuroendocrine Carcinoma	Primary tumor
+GENIE-MSK-P-0045650	GENIE-MSK-P-0045650-T01-IM6	55	LCLC	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Large Cell Lung Carcinoma	Primary tumor
+GENIE-MSK-P-0045670	GENIE-MSK-P-0045670-T01-IM6	79	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0047840	GENIE-MSK-P-0047840-T02-IM6	59	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0045255	GENIE-MSK-P-0045255-T01-IM6	65	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0045260	GENIE-MSK-P-0045260-T02-IM6	57	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0047567	GENIE-MSK-P-0047567-T01-IM6	63	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0047646	GENIE-MSK-P-0047646-T01-IM6	51	LUSC	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-MSK-P-0044707	GENIE-MSK-P-0044707-T04-IM6	58	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0049140	GENIE-MSK-P-0049140-T02-IM6	50	LUSC	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-MSK-P-0050172	GENIE-MSK-P-0050172-T01-IM6	63	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0050250	GENIE-MSK-P-0050250-T01-IM6	83	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0049271	GENIE-MSK-P-0049271-T01-IM6	68	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0049271	GENIE-MSK-P-0049271-T02-IM6	68	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0050286	GENIE-MSK-P-0050286-T01-IM6	78	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0048693	GENIE-MSK-P-0048693-T01-IM6	72	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0046034	GENIE-MSK-P-0046034-T01-IM6	61	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0046110	GENIE-MSK-P-0046110-T02-IM7	72	NSCLC	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Non-Small Cell Lung Cancer	Primary tumor
+GENIE-MSK-P-0048438	GENIE-MSK-P-0048438-T01-IM6	68	LUSC	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-MSK-P-0048457	GENIE-MSK-P-0048457-T01-IM6	62	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0048515	GENIE-MSK-P-0048515-T01-IM6	64	LUSC	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-MSK-P-0048059	GENIE-MSK-P-0048059-T01-IM6	55	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0048096	GENIE-MSK-P-0048096-T03-IM6	57	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0046926	GENIE-MSK-P-0046926-T01-IM6	58	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0046628	GENIE-MSK-P-0046628-T01-IM6	49	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0046454	GENIE-MSK-P-0046454-T01-IM6	48	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0046488	GENIE-MSK-P-0046488-T01-IM6	60	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0046217	GENIE-MSK-P-0046217-T01-IM6	81	LUSC	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-MSK-P-0045810	GENIE-MSK-P-0045810-T02-IM6	63	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0045829	GENIE-MSK-P-0045829-T01-IM6	70	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0045927	GENIE-MSK-P-0045927-T01-IM6	81	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-3466	GENIE-UCSF-3466-0530T	82	LUAD	Primary	UCSF-NIMV4-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-3477	GENIE-UCSF-3477-5929T	71	LUSC	Primary	UCSF-NIMV4-TO	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-UCSF-3519	GENIE-UCSF-3519-5124T	67	LUAD	Primary	UCSF-NIMV4-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-3677	GENIE-UCSF-3677-7996T	82	LUAD	Primary	UCSF-NIMV4-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-3685	GENIE-UCSF-3685-8179T	80	LUPC	Primary	UCSF-NIMV4-TO	Non-Small Cell Lung Cancer	Pleomorphic Carcinoma of the Lung	Primary tumor
+GENIE-UCSF-3738	GENIE-UCSF-3738-5381T	54	LUAD	Primary	UCSF-NIMV4-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-3752	GENIE-UCSF-3752-5298T	64	LUAD	Primary	UCSF-NIMV4-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-3773	GENIE-UCSF-3773-4396T	72	LUAD	Primary	UCSF-NIMV4-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-10597	GENIE-UCSF-10597-4725T	61	LUAD	Primary	UCSF-NIMV4-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-10640	GENIE-UCSF-10640-0282T	80	LUAD	Primary	UCSF-NIMV4-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-10655	GENIE-UCSF-10655-3862T	60	LUAD	Primary	UCSF-NIMV4-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-10669	GENIE-UCSF-10669-4763T	53	LUAD	Primary	UCSF-NIMV4-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-10669	GENIE-UCSF-10669-9337T	53	LUAD	Primary	UCSF-NIMV4-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-10750	GENIE-UCSF-10750-0616T	63	LUAD	Primary	UCSF-NIMV4-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-10794	GENIE-UCSF-10794-8618T	82	LUAD	Primary	UCSF-NIMV4-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-10799	GENIE-UCSF-10799-0108T	79	LUAD	Primary	UCSF-NIMV4-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-10835	GENIE-UCSF-10835-5722T	69	LUAD	Primary	UCSF-NIMV4-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-10955	GENIE-UCSF-10955-3646T	77	LUAD	Primary	UCSF-NIMV4-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-COLU-1107	GENIE-COLU-1107-1	68	LUAD	Primary	COLU-CSTP-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-COLU-1148	GENIE-COLU-1148-1	79	LUAD	Primary	COLU-CSTP-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-COLU-1211	GENIE-COLU-1211-1	69	LUAD	Primary	COLU-CSTP-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-COLU-1247	GENIE-COLU-1247-1	53	LUAD	Primary	COLU-CSTP-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-COLU-1258	GENIE-COLU-1258-1	60	LUAD	Primary	COLU-CSTP-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-COLU-1359	GENIE-COLU-1359-1	72	LUAD	Primary	COLU-CSTP-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-COLU-1364	GENIE-COLU-1364-1	>89	LUAD	Primary	COLU-CSTP-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-149438	GENIE-DFCI-149438-2149976	81	LUSC	Primary	DFCI-ONCOPANEL-3.1	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-DFCI-161382	GENIE-DFCI-161382-1845016	55	NSCLC	Primary	DFCI-ONCOPANEL-3.1	Non-Small Cell Lung Cancer	Non-Small Cell Lung Cancer	Primary tumor
+GENIE-DFCI-161382	GENIE-DFCI-161382-3733615	56	LUAD	Primary	DFCI-ONCOPANEL-3.1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-167618	GENIE-DFCI-167618-1787048	71	LUAD	Primary	DFCI-ONCOPANEL-3.1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-169659	GENIE-DFCI-169659-1787023	80	LUAD	Primary	DFCI-ONCOPANEL-3.1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-170147	GENIE-DFCI-170147-3446508	70	LUAD	Primary	DFCI-ONCOPANEL-3.1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-170147	GENIE-DFCI-170147-3446649	70	LUAD	Primary	DFCI-ONCOPANEL-3.1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-171573	GENIE-DFCI-171573-2394123	48	LUAD	Primary	DFCI-ONCOPANEL-3.1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-171923	GENIE-DFCI-171923-2394045	42	LUSC	Primary	DFCI-ONCOPANEL-3.1	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-DFCI-173141	GENIE-DFCI-173141-1672079	55	LUAD	Primary	DFCI-ONCOPANEL-3.1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-191851	GENIE-DFCI-191851-3733793	59	LUAD	Primary	DFCI-ONCOPANEL-3.1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-200510	GENIE-DFCI-200510-3036123	83	LUAD	Primary	DFCI-ONCOPANEL-3.1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-201080	GENIE-DFCI-201080-2774230	74	LUAD	Primary	DFCI-ONCOPANEL-3.1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-202030	GENIE-DFCI-202030-2904532	68	LUAD	Primary	DFCI-ONCOPANEL-3.1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-202470	GENIE-DFCI-202470-2970339	>89	LUAD	Primary	DFCI-ONCOPANEL-3.1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-206291	GENIE-DFCI-206291-2710173	53	LUAD	Primary	DFCI-ONCOPANEL-3.1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-214180	GENIE-DFCI-214180-3170259	72	LUAD	Primary	DFCI-ONCOPANEL-3.1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-COLU-1572	GENIE-COLU-1572-1	56	LUAD	Primary	COLU-CSTP-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-COLU-1597	GENIE-COLU-1597-1	64	LUAD	Primary	COLU-CSTP-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-00144	GENIE-JHU-00144-00325	66	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-00316	GENIE-JHU-00316-00584	67	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-04938	GENIE-JHU-04938-05747	72	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-06370	GENIE-JHU-06370-07315	61	LUAD	Primary	JHU-500STP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-06387	GENIE-JHU-06387-07333	72	LUAD	Primary	JHU-500STP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-WAKE-F1803	GENIE-WAKE-F1803-01	77	LUAD	Primary	WAKE-CLINICAL-DX1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-243796	GENIE-DFCI-243796-3646353	88	LUAD	Primary	DFCI-ONCOPANEL-3.1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-244356	GENIE-DFCI-244356-3502477	62	LUAD	Primary	DFCI-ONCOPANEL-3.1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-268729	GENIE-DFCI-268729-3474506	79	LUSC	Primary	DFCI-ONCOPANEL-3.1	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-DFCI-269298	GENIE-DFCI-269298-3733888	70	LUAD	Primary	DFCI-ONCOPANEL-3.1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0053585	GENIE-MSK-P-0053585-T01-IM6	68	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0050861	GENIE-MSK-P-0050861-T01-IM6	63	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0050860	GENIE-MSK-P-0050860-T01-IM6	78	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0053963	GENIE-MSK-P-0053963-T02-IM6	72	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0051907	GENIE-MSK-P-0051907-T01-IM6	68	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0052861	GENIE-MSK-P-0052861-T02-IM6	67	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0051003	GENIE-MSK-P-0051003-T01-IM6	59	NSCLC	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Non-Small Cell Lung Cancer	Primary tumor
+GENIE-MSK-P-0055838	GENIE-MSK-P-0055838-T01-IM6	73	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0052824	GENIE-MSK-P-0052824-T01-IM6	59	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0055658	GENIE-MSK-P-0055658-T01-IM6	76	LECLC	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lymphoepithelioma-like Carcinoma of the Lung	Primary tumor
+GENIE-MSK-P-0055288	GENIE-MSK-P-0055288-T03-IM6	59	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0054130	GENIE-MSK-P-0054130-T02-IM6	55	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0053517	GENIE-MSK-P-0053517-T01-IM6	50	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0053816	GENIE-MSK-P-0053816-T01-IM6	58	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0055117	GENIE-MSK-P-0055117-T01-IM6	62	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0054024	GENIE-MSK-P-0054024-T01-IM6	72	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0052722	GENIE-MSK-P-0052722-T02-IM7	64	NSCLC	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Non-Small Cell Lung Cancer	Primary tumor
+GENIE-MSK-P-0055682	GENIE-MSK-P-0055682-T01-IM6	53	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0055682	GENIE-MSK-P-0055682-T02-IM7	54	NSCLC	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Non-Small Cell Lung Cancer	Primary tumor
+GENIE-MSK-P-0055682	GENIE-MSK-P-0055682-T04-IM7	55	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0051781	GENIE-MSK-P-0051781-T03-IM6	63	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0054408	GENIE-MSK-P-0054408-T01-IM6	44	LUAS	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenosquamous Carcinoma	Primary tumor
+GENIE-MSK-P-0054903	GENIE-MSK-P-0054903-T02-IM6	46	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0043745	GENIE-MSK-P-0043745-T02-IM6	82	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0052310	GENIE-MSK-P-0052310-T06-IM7	38	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0055428	GENIE-MSK-P-0055428-T02-IM6	56	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-11049	GENIE-UCSF-11049-2857T	66	LUAD	Primary	UCSF-NIMV4-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-11049	GENIE-UCSF-11049-56648T	69	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-11089	GENIE-UCSF-11089-7585T	60	LUAD	Primary	UCSF-NIMV4-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-11148	GENIE-UCSF-11148-9203T	77	LUAD	Primary	UCSF-NIMV4-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-11485	GENIE-UCSF-11485-3802T	71	LUAD	Primary	UCSF-NIMV4-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-11485	GENIE-UCSF-11485-4167T	71	LUAD	Primary	UCSF-NIMV4-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-11485	GENIE-UCSF-11485-8645T	71	LUAD	Primary	UCSF-NIMV4-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-11695	GENIE-UCSF-11695-5126T	74	LUAD	Primary	UCSF-NIMV4-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-11911	GENIE-UCSF-11911-4582T	77	LUAD	Primary	UCSF-NIMV4-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-11911	GENIE-UCSF-11911-6066T	77	LUAD	Primary	UCSF-NIMV4-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-12038	GENIE-UCSF-12038-9866T	78	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-12052	GENIE-UCSF-12052-8322T	64	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-12075	GENIE-UCSF-12075-4632T	79	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-12096	GENIE-UCSF-12096-3832T	62	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-VHIO-952	GENIE-VHIO-952-001	54	LUAD	Primary	VHIO-LUNG-V01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-COLU-1682	GENIE-COLU-1682-1	80	LUAD	Primary	COLU-CSTP-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-COLU-1896	GENIE-COLU-1896-1	66	LUAD	Primary	COLU-CSTP-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-COLU-2004	GENIE-COLU-2004-1	76	LUAD	Primary	COLU-CSTP-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UHN-OCT702048	GENIE-UHN-OCT702048-ARC1	74	LCLC	Primary	UHN-OCA-V3	Non-Small Cell Lung Cancer	Large Cell Lung Carcinoma	Primary tumor
+GENIE-UHN-OCT015876	GENIE-UHN-OCT015876-ARC1	76	LUSC	Primary	UHN-OCA-V3	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-UHN-OCT361886	GENIE-UHN-OCT361886-ARC1	65	LUSC	Primary	UHN-OCA-V3	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-UCSF-12179	GENIE-UCSF-12179-2775T	72	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-12188	GENIE-UCSF-12188-3769T	74	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-12188	GENIE-UCSF-12188-5278T	73	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-12275	GENIE-UCSF-12275-5921T	70	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-12283	GENIE-UCSF-12283-7418T	70	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-12346	GENIE-UCSF-12346-0869T	76	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-12393	GENIE-UCSF-12393-3351T	54	LUSC	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-UCSF-12393	GENIE-UCSF-12393-98831T	56	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-12406	GENIE-UCSF-12406-3325T	71	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-12441	GENIE-UCSF-12441-5404T	68	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-12487	GENIE-UCSF-12487-7173T	52	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-12487	GENIE-UCSF-12487-4805T	53	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-12774	GENIE-UCSF-12774-8295T	38	LUAS	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenosquamous Carcinoma	Primary tumor
+GENIE-UCSF-12814	GENIE-UCSF-12814-7636T	80	LNET	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Neuroendocrine Tumor	Primary tumor
+GENIE-UCSF-12899	GENIE-UCSF-12899-8200T	80	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-13059	GENIE-UCSF-13059-5745T	60	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-13099	GENIE-UCSF-13099-5630T	75	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-13152	GENIE-UCSF-13152-7443T	84	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-13172	GENIE-UCSF-13172-5061T	49	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-PROV-74a60b76	GENIE-PROV-74a60b76-focus-v1	65	LUAD	Primary	PROV-FOCUS-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-PROV-4e9a041a	GENIE-PROV-4e9a041a-focus-v1	66	LUAD	Primary	PROV-FOCUS-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-PROV-87ca7f42	GENIE-PROV-87ca7f42-focus-v1	83	LUSC	Primary	PROV-FOCUS-V1	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-PROV-bd663a5c	GENIE-PROV-bd663a5c-focus-v1	69	LUAD	Primary	PROV-FOCUS-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-PROV-e4fd8d2f	GENIE-PROV-e4fd8d2f-focus-v1	67	LUAD	Primary	PROV-FOCUS-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-PROV-edb18697	GENIE-PROV-edb18697-focus-v1	82	NSCLC	Primary	PROV-FOCUS-V1	Non-Small Cell Lung Cancer	Non-Small Cell Lung Cancer	Primary tumor
+GENIE-PROV-bd560907	GENIE-PROV-bd560907-focus-v1	66	LUAD	Primary	PROV-FOCUS-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-PROV-397b04c3	GENIE-PROV-397b04c3-focus-v1	68	LUAD	Primary	PROV-FOCUS-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-PROV-41b85416	GENIE-PROV-41b85416-focus-v1	69	LUAD	Primary	PROV-FOCUS-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-PROV-783b9eea	GENIE-PROV-783b9eea-focus-v1	58	LUAD	Primary	PROV-FOCUS-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-PROV-59c3ef3c	GENIE-PROV-59c3ef3c-focus-v1	79	LUAD	Primary	PROV-FOCUS-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-PROV-7f884401	GENIE-PROV-7f884401-focus-v1	51	LUAD	Primary	PROV-FOCUS-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-PROV-3a04b836	GENIE-PROV-3a04b836-focus-v1	82	LUAD	Primary	PROV-FOCUS-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-PROV-5882a7ef	GENIE-PROV-5882a7ef-focus-v1	57	LUAD	Primary	PROV-FOCUS-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-PROV-d7426af6	GENIE-PROV-d7426af6-focus-v1	68	LUAD	Primary	PROV-FOCUS-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-PROV-f0b96fec	GENIE-PROV-f0b96fec-focus-v1	48	LUAD	Primary	PROV-FOCUS-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-PROV-dfaa9b60	GENIE-PROV-dfaa9b60-focus-v1	>89	LUAD	Primary	PROV-FOCUS-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-PROV-c3354a6b	GENIE-PROV-c3354a6b-focus-v1	71	LUAD	Primary	PROV-FOCUS-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-PROV-927d02a8	GENIE-PROV-927d02a8-focus-v1	68	LUAD	Primary	PROV-FOCUS-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-PROV-ae91dacf	GENIE-PROV-ae91dacf-focus-v1	63	LUAD	Primary	PROV-FOCUS-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-PROV-4166d9cf	GENIE-PROV-4166d9cf-focus-v1	83	LUAD	Primary	PROV-FOCUS-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-PROV-a338b32f	GENIE-PROV-a338b32f-focus-v1	69	LUAD	Primary	PROV-FOCUS-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-PROV-9395207e	GENIE-PROV-9395207e-focus-v1	49	LUAD	Primary	PROV-FOCUS-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-PROV-60f7fa2b	GENIE-PROV-60f7fa2b-focus-v1	71	LUAD	Primary	PROV-FOCUS-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-PROV-162cf38d	GENIE-PROV-162cf38d-focus-v1	37	LUAD	Primary	PROV-FOCUS-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-PROV-7f780a37	GENIE-PROV-7f780a37-focus-v1	70	LUAD	Primary	PROV-FOCUS-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-PROV-402c3e60	GENIE-PROV-402c3e60-focus-v1	57	LUAD	Primary	PROV-FOCUS-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-PROV-59b7d602	GENIE-PROV-59b7d602-focus-v1	71	LUAD	Primary	PROV-FOCUS-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-PROV-b4870def	GENIE-PROV-b4870def-TST170-V1	59	LUAD	Primary	PROV-TST170-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-PROV-ebee8c25	GENIE-PROV-ebee8c25-TST170-V1	71	LUSC	Primary	PROV-TST170-V1	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-PROV-15d37f7b	GENIE-PROV-15d37f7b-TST170-V1	46	LUAD	Primary	PROV-TST170-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-PROV-458d8096	GENIE-PROV-458d8096-TST170-V1	80	LUSC	Primary	PROV-TST170-V1	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-PROV-6c49a63f	GENIE-PROV-6c49a63f-TST170-V1	71	LUAD	Primary	PROV-TST170-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-PROV-1ad0c84d	GENIE-PROV-1ad0c84d-TST170-V1	67	LUAD	Primary	PROV-TST170-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-PROV-5edb24df	GENIE-PROV-5edb24df-TST170-V1	56	LUAD	Primary	PROV-TST170-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-PROV-367200f2	GENIE-PROV-367200f2-TST170-V1	73	LUAD	Primary	PROV-TST170-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-PROV-27d25088	GENIE-PROV-27d25088-TST170-V1	72	LUAD	Primary	PROV-TST170-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-PROV-32dafa26	GENIE-PROV-32dafa26-TST170-V1	76	LUAD	Primary	PROV-TST170-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-PROV-c13268d9	GENIE-PROV-c13268d9-TST170-V1	53	LUAD	Primary	PROV-TST170-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-PROV-6de9724c	GENIE-PROV-6de9724c-TST170-V1	38	LUAD	Primary	PROV-TST170-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-PROV-1239950a	GENIE-PROV-1239950a-TST170-V1	82	LUSC	Primary	PROV-TST170-V1	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-PROV-5b18347c	GENIE-PROV-5b18347c-TST170-V1	75	LUAD	Primary	PROV-TST170-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-327426	GENIE-DFCI-327426-4004627	58	LUAD	Primary	DFCI-ONCOPANEL-3.1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-356937	GENIE-DFCI-356937-4067325	67	LUAD	Primary	DFCI-ONCOPANEL-3.1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-379520	GENIE-DFCI-379520-4036393	65	LUAD	Primary	DFCI-ONCOPANEL-3.1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0057213	GENIE-MSK-P-0057213-T01-IM6	62	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0061190	GENIE-MSK-P-0061190-T01-IM7	76	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0058768	GENIE-MSK-P-0058768-T01-IM7	31	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0060412	GENIE-MSK-P-0060412-T01-IM7	63	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0059464	GENIE-MSK-P-0059464-T02-IM7	63	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0058066	GENIE-MSK-P-0058066-T02-IM7	69	NSCLC	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Non-Small Cell Lung Cancer	Primary tumor
+GENIE-MSK-P-0061520	GENIE-MSK-P-0061520-T01-IM7	63	LUSC	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-MSK-P-0061335	GENIE-MSK-P-0061335-T01-IM7	85	LUSC	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-MSK-P-0059670	GENIE-MSK-P-0059670-T01-IM7	84	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0056664	GENIE-MSK-P-0056664-T02-IM6	62	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0056786	GENIE-MSK-P-0056786-T01-IM6	42	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0056786	GENIE-MSK-P-0056786-T02-IM7	44	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0055946	GENIE-MSK-P-0055946-T01-IM6	71	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0060748	GENIE-MSK-P-0060748-T02-IM7	40	NSCLC	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Non-Small Cell Lung Cancer	Primary tumor
+GENIE-MSK-P-0058901	GENIE-MSK-P-0058901-T01-IM7	56	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0057263	GENIE-MSK-P-0057263-T01-IM6	66	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0056580	GENIE-MSK-P-0056580-T01-IM6	77	LUSC	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-MSK-P-0060114	GENIE-MSK-P-0060114-T01-IM7	69	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0060605	GENIE-MSK-P-0060605-T01-IM7	58	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0065151	GENIE-MSK-P-0065151-T01-IM7	53	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0063082	GENIE-MSK-P-0063082-T02-IM7	43	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0064854	GENIE-MSK-P-0064854-T01-IM7	83	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0064032	GENIE-MSK-P-0064032-T01-IM7	74	LUSC	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-MSK-P-0061711	GENIE-MSK-P-0061711-T01-IM7	55	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0067319	GENIE-MSK-P-0067319-T01-IM7	72	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0064716	GENIE-MSK-P-0064716-T02-IM7	71	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0065465	GENIE-MSK-P-0065465-T03-IM7	67	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0042732	GENIE-MSK-P-0042732-T04-IM7	55	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0042732	GENIE-MSK-P-0042732-T05-IM7	55	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0067729	GENIE-MSK-P-0067729-T01-IM7	75	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0067326	GENIE-MSK-P-0067326-T01-IM7	57	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0064364	GENIE-MSK-P-0064364-T01-IM7	67	LUSC	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-MSK-P-0062001	GENIE-MSK-P-0062001-T01-IM7	59	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0062001	GENIE-MSK-P-0062001-T02-IM7	60	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0058720	GENIE-MSK-P-0058720-T02-IM7	65	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0062878	GENIE-MSK-P-0062878-T01-IM7	84	LUSC	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-MSK-P-0065676	GENIE-MSK-P-0065676-T01-IM7	69	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0061432	GENIE-MSK-P-0061432-T02-IM7	62	NSCLC	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Non-Small Cell Lung Cancer	Primary tumor
+GENIE-MSK-P-0064874	GENIE-MSK-P-0064874-T01-IM7	78	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0064050	GENIE-MSK-P-0064050-T01-IM7	78	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0066270	GENIE-MSK-P-0066270-T01-IM7	51	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0065195	GENIE-MSK-P-0065195-T03-IM7	60	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0065456	GENIE-MSK-P-0065456-T01-IM7	40	NUTCL	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	NUT Carcinoma of the Lung	Primary tumor
+GENIE-UHN-OCT103790	GENIE-UHN-OCT103790-ARC1	69	SPCC	Primary	UHN-OCA-V3	Non-Small Cell Lung Cancer	Spindle Cell Carcinoma of the Lung	Primary tumor
+GENIE-UHN-OCT865048	GENIE-UHN-OCT865048-ARC1	60	LUAD	Primary	UHN-OCA-V3	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-13624	GENIE-UCSF-13624-2796T	61	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-13757	GENIE-UCSF-13757-7489T	75	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-13847	GENIE-UCSF-13847-0471T	85	LUPC	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Pleomorphic Carcinoma of the Lung	Primary tumor
+GENIE-UCSF-14130	GENIE-UCSF-14130-6776T	80	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-14139	GENIE-UCSF-14139-5318T	50	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-14194	GENIE-UCSF-14194-2702T	39	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-14275	GENIE-UCSF-14275-6169T	63	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-14396	GENIE-UCSF-14396-4159T	47	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-14615	GENIE-UCSF-14615-5286T	64	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-14632	GENIE-UCSF-14632-9666T	81	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-14658	GENIE-UCSF-14658-3007T	57	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-14664	GENIE-UCSF-14664-7741T	72	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-14696	GENIE-UCSF-14696-8211T	66	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-14725	GENIE-UCSF-14725-4988T	80	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-14780	GENIE-UCSF-14780-0189T	83	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-14827	GENIE-UCSF-14827-8743T	74	LUSC	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-UCSF-14837	GENIE-UCSF-14837-9473T	77	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-14837	GENIE-UCSF-14837-4178T	77	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-14841	GENIE-UCSF-14841-5184T	66	LECLC	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lymphoepithelioma-like Carcinoma of the Lung	Primary tumor
+GENIE-DFCI-002927	GENIE-DFCI-002927-11701	>89	LUAD	Primary	DFCI-ONCOPANEL-2	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-006505	GENIE-DFCI-006505-10812	75	LUSC	Primary	DFCI-ONCOPANEL-2	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-DFCI-007128	GENIE-DFCI-007128-4948	57	LUAD	Primary	DFCI-ONCOPANEL-2	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-011420	GENIE-DFCI-011420-10261	49	LUAD	Primary	DFCI-ONCOPANEL-2	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-077844	GENIE-DFCI-077844-282642	78	LUAD	Primary	DFCI-ONCOPANEL-3	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-111536	GENIE-DFCI-111536-664127	69	LUSC	Primary	DFCI-ONCOPANEL-3	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-DFCI-201078	GENIE-DFCI-201078-2644900	51	LUAD	Primary	DFCI-ONCOPANEL-3.1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-237974	GENIE-DFCI-237974-3103045	52	NSCLCPD	Primary	DFCI-ONCOPANEL-3.1	Non-Small Cell Lung Cancer	Poorly Differentiated Non-Small Cell Lung Cancer	Primary tumor
+GENIE-DFCI-360591	GENIE-DFCI-360591-4129684	83	LUAD	Primary	DFCI-ONCOPANEL-3.1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-380525	GENIE-DFCI-380525-4713919	65	LUAD	Primary	DFCI-ONCOPANEL-3.1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-387711	GENIE-DFCI-387711-4384972	88	LUAD	Primary	DFCI-ONCOPANEL-3.1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-389076	GENIE-DFCI-389076-4350676	64	LUAD	Primary	DFCI-ONCOPANEL-3.1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-417124	GENIE-DFCI-417124-4382340	59	LUAD	Primary	DFCI-ONCOPANEL-3.1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-448185	GENIE-DFCI-448185-4419208	59	LUAD	Primary	DFCI-ONCOPANEL-3.1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DUKE-P31	GENIE-DUKE-P31-S31	50	NSCLC	Primary	DUKE-F1-T7	Non-Small Cell Lung Cancer	Non-Small Cell Lung Cancer	Primary tumor
+GENIE-DUKE-P533	GENIE-DUKE-P533-S537	44	LUAD	Primary	DUKE-F1-DX1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DUKE-P533	GENIE-DUKE-P533-S1142	42	LUAD	Primary	DUKE-F1-T7	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DUKE-P716	GENIE-DUKE-P716-S724	81	NSCLC	Primary	DUKE-F1-DX1	Non-Small Cell Lung Cancer	Non-Small Cell Lung Cancer	Primary tumor
+GENIE-DUKE-P880	GENIE-DUKE-P880-S890	73	LUAD	Primary	DUKE-F1-T7	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DUKE-P943	GENIE-DUKE-P943-S954	54	LUAD	Primary	DUKE-F1-DX1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DUKE-P1490	GENIE-DUKE-P1490-S1515	62	LUAD	Primary	DUKE-F1-DX1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DUKE-P1628	GENIE-DUKE-P1628-S1657	45	NSCLC	Primary	DUKE-F1-DX1	Non-Small Cell Lung Cancer	Non-Small Cell Lung Cancer	Primary tumor
+GENIE-DUKE-P2895	GENIE-DUKE-P2895-S2969	68	NSCLC	Primary	DUKE-F1-DX1	Non-Small Cell Lung Cancer	Non-Small Cell Lung Cancer	Primary tumor
+GENIE-JHU-04667	GENIE-JHU-04667-05441	Unknown	LUAD	Primary	JHU-500STP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-07254	GENIE-JHU-07254-08240	76	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-07429	GENIE-JHU-07429-08436	41	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-07478	GENIE-JHU-07478-08493	80	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-07661	GENIE-JHU-07661-08705	58	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-07760	GENIE-JHU-07760-08811	47	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-07771	GENIE-JHU-07771-08825	74	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-JHU-07793	GENIE-JHU-07793-08848	63	LUAD	Primary	JHU-50GP	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-425227	GENIE-DFCI-425227-4751189	79	LUAD	Primary	DFCI-ONCOPANEL-3.1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-448419	GENIE-DFCI-448419-4720584	62	LUAD	Primary	DFCI-ONCOPANEL-3.1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-449072	GENIE-DFCI-449072-4545040	57	LUAD	Primary	DFCI-ONCOPANEL-3.1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-15159	GENIE-UCSF-15159-3582T	71	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-15169	GENIE-UCSF-15169-9974T	65	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-15235	GENIE-UCSF-15235-4274T	83	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-15277	GENIE-UCSF-15277-9211T	68	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-15278	GENIE-UCSF-15278-7356T	66	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-15300	GENIE-UCSF-15300-5890T	82	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-15390	GENIE-UCSF-15390-5031T	66	LUSC	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-UCSF-15451	GENIE-UCSF-15451-7416T	71	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-15539	GENIE-UCSF-15539-4030T	77	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-15697	GENIE-UCSF-15697-2689T	67	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-15831	GENIE-UCSF-15831-7838T	87	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-16038	GENIE-UCSF-16038-4741T	67	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-16113	GENIE-UCSF-16113-9927T	71	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-16137	GENIE-UCSF-16137-8153T	82	LUSC	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-UCSF-16147	GENIE-UCSF-16147-0097T	68	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-16157	GENIE-UCSF-16157-2212T	79	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-16208	GENIE-UCSF-16208-5887T	76	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-16227	GENIE-UCSF-16227-8064T	59	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-16343	GENIE-UCSF-16343-4190T	69	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-16462	GENIE-UCSF-16462-9780T	53	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-16532	GENIE-UCSF-16532-8862T	52	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-16551	GENIE-UCSF-16551-8883T	87	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-16628	GENIE-UCSF-16628-0913T	78	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-16636	GENIE-UCSF-16636-3855T	84	LUSC	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-UCSF-16638	GENIE-UCSF-16638-6139T	56	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0070744	GENIE-MSK-P-0070744-T01-IM7	68	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0072152	GENIE-MSK-P-0072152-T02-IM7	83	NSCLC	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Non-Small Cell Lung Cancer	Primary tumor
+GENIE-MSK-P-0073521	GENIE-MSK-P-0073521-T01-IM7	58	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0073521	GENIE-MSK-P-0073521-T03-IM7	59	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0073521	GENIE-MSK-P-0073521-T04-IM7	59	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0074002	GENIE-MSK-P-0074002-T01-IM7	59	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0071373	GENIE-MSK-P-0071373-T01-IM7	73	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0069007	GENIE-MSK-P-0069007-T02-IM7	54	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0072218	GENIE-MSK-P-0072218-T01-IM7	87	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0067001	GENIE-MSK-P-0067001-T02-IM7	>89	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0071870	GENIE-MSK-P-0071870-T01-IM7	78	LUSC	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-MSK-P-0072246	GENIE-MSK-P-0072246-T02-IM7	81	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0073527	GENIE-MSK-P-0073527-T01-IM7	66	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0071559	GENIE-MSK-P-0071559-T01-IM7	32	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0074225	GENIE-MSK-P-0074225-T01-IM7	43	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0068978	GENIE-MSK-P-0068978-T01-IM7	49	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0072942	GENIE-MSK-P-0072942-T01-IM7	80	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0069707	GENIE-MSK-P-0069707-T01-IM7	58	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0073831	GENIE-MSK-P-0073831-T01-IM7	49	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0072597	GENIE-MSK-P-0072597-T01-IM7	53	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0074301	GENIE-MSK-P-0074301-T01-IM7	83	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0070129	GENIE-MSK-P-0070129-T02-IM7	70	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0068797	GENIE-MSK-P-0068797-T02-IM7	59	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0068797	GENIE-MSK-P-0068797-T03-IM7	60	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0072421	GENIE-MSK-P-0072421-T02-IM7	86	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0073078	GENIE-MSK-P-0073078-T02-IM7	68	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0071322	GENIE-MSK-P-0071322-T03-IM7	40	NSCLC	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Non-Small Cell Lung Cancer	Primary tumor
+GENIE-MSK-P-0073895	GENIE-MSK-P-0073895-T01-IM7	71	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0072968	GENIE-MSK-P-0072968-T02-IM7	61	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0071989	GENIE-MSK-P-0071989-T01-IM7	70	LUSC	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-MSK-P-0067542	GENIE-MSK-P-0067542-T02-IM7	49	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-VICC-286088	GENIE-VICC-286088-unk-3	68	LUAD	Primary	VICC-02-XTV4	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-COLU-2854	GENIE-COLU-2854-1	73	NSCLC	Primary	COLU-CSTP-V1	Non-Small Cell Lung Cancer	Non-Small Cell Lung Cancer	Primary tumor
+GENIE-COLU-2972	GENIE-COLU-2972-1	64	LUAD	Primary	COLU-CSTP-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-COLU-3018	GENIE-COLU-3018-1	72	LUAD	Primary	COLU-CSTP-V1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-COLU-3228	GENIE-COLU-3228-1	73	LUAD	Primary	COLU-CSTP-V2	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0032722	GENIE-MSK-P-0032722-T01-IM6	59	LUAD	Primary	MSK-IMPACT468	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0069008	GENIE-MSK-P-0069008-T03-IM7	63	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0073781	GENIE-MSK-P-0073781-T03-IM7	38	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0073921	GENIE-MSK-P-0073921-T03-IM7	45	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0074067	GENIE-MSK-P-0074067-T02-IM7	72	LUSC	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-MSK-P-0074068	GENIE-MSK-P-0074068-T02-IM7	73	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0074310	GENIE-MSK-P-0074310-T02-IM7	57	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0074332	GENIE-MSK-P-0074332-T01-IM7	75	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0074521	GENIE-MSK-P-0074521-T01-IM7	59	LUMEC	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Mucoepidermoid Carcinoma of the Lung	Primary tumor
+GENIE-MSK-P-0074741	GENIE-MSK-P-0074741-T01-IM7	69	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0074832	GENIE-MSK-P-0074832-T01-IM7	57	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0074832	GENIE-MSK-P-0074832-T02-IM7	57	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0075082	GENIE-MSK-P-0075082-T02-IM7	71	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0075085	GENIE-MSK-P-0075085-T02-IM7	74	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0075514	GENIE-MSK-P-0075514-T01-IM7	79	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0075527	GENIE-MSK-P-0075527-T01-IM7	69	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0075554	GENIE-MSK-P-0075554-T02-IM7	68	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0075579	GENIE-MSK-P-0075579-T01-IM7	63	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0075998	GENIE-MSK-P-0075998-T01-IM7	64	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0076068	GENIE-MSK-P-0076068-T01-IM7	68	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0076204	GENIE-MSK-P-0076204-T01-IM7	82	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0076211	GENIE-MSK-P-0076211-T01-IM7	49	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0076370	GENIE-MSK-P-0076370-T01-IM7	56	LUAS	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenosquamous Carcinoma	Primary tumor
+GENIE-MSK-P-0076515	GENIE-MSK-P-0076515-T02-IM7	70	NSCLC	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Non-Small Cell Lung Cancer	Primary tumor
+GENIE-MSK-P-0076648	GENIE-MSK-P-0076648-T02-IM7	47	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0077231	GENIE-MSK-P-0077231-T01-IM7	76	NSCLC	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Non-Small Cell Lung Cancer	Primary tumor
+GENIE-MSK-P-0077261	GENIE-MSK-P-0077261-T01-IM7	60	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0077289	GENIE-MSK-P-0077289-T02-IM7	75	NSCLC	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Non-Small Cell Lung Cancer	Primary tumor
+GENIE-MSK-P-0077357	GENIE-MSK-P-0077357-T01-IM7	68	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0077405	GENIE-MSK-P-0077405-T01-IM7	73	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0077468	GENIE-MSK-P-0077468-T01-IM7	78	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0077701	GENIE-MSK-P-0077701-T01-IM7	79	LUSC	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-MSK-P-0077801	GENIE-MSK-P-0077801-T01-IM7	65	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0077823	GENIE-MSK-P-0077823-T01-IM7	59	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0077887	GENIE-MSK-P-0077887-T01-IM7	71	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0077998	GENIE-MSK-P-0077998-T01-IM7	65	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0078735	GENIE-MSK-P-0078735-T01-IM7	58	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0078782	GENIE-MSK-P-0078782-T01-IM7	71	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0079141	GENIE-MSK-P-0079141-T01-IM7	67	LUSC	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-MSK-P-0079683	GENIE-MSK-P-0079683-T01-IM7	54	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0080593	GENIE-MSK-P-0080593-T01-IM7	79	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0080765	GENIE-MSK-P-0080765-T01-IM7	84	NSCLC	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Non-Small Cell Lung Cancer	Primary tumor
+GENIE-MSK-P-0080969	GENIE-MSK-P-0080969-T02-IM7	46	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0081572	GENIE-MSK-P-0081572-T01-IM7	71	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0081572	GENIE-MSK-P-0081572-T02-IM7	71	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0081657	GENIE-MSK-P-0081657-T01-IM7	66	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-16815	GENIE-UCSF-16815-2968T	68	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-16822	GENIE-UCSF-16822-0951T	71	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-16964	GENIE-UCSF-16964-6408T	71	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-17103	GENIE-UCSF-17103-6531T	60	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-17238	GENIE-UCSF-17238-0678T	66	LUSC	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-UCSF-14103	GENIE-UCSF-14103-9201T	52	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-52367	GENIE-UCSF-52367-0265T	68	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-121235	GENIE-UCSF-121235-6524T	60	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-127146	GENIE-UCSF-127146-2545T	76	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-136033	GENIE-UCSF-136033-1217T	60	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-139175	GENIE-UCSF-139175-7197T	60	LUSC	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-UCSF-86989	GENIE-UCSF-86989-3926T	66	LUAD	Primary	UCSF-IDTV5-TN	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-177123	GENIE-UCSF-177123-4605T	63	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-196893	GENIE-UCSF-196893-6109T	48	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-205357	GENIE-UCSF-205357-58982T	50	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-230021	GENIE-UCSF-230021-3307T	51	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-238214	GENIE-UCSF-238214-4173T	68	LUCA	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Carcinoid	Primary tumor
+GENIE-UCSF-249972	GENIE-UCSF-249972-5599T	79	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-267871	GENIE-UCSF-267871-5562T	65	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-280505	GENIE-UCSF-280505-9619T	58	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-338253	GENIE-UCSF-338253-4576T	46	NSCLC	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Non-Small Cell Lung Cancer	Primary tumor
+GENIE-COLU-3477	GENIE-COLU-3477-1	66	LUAD	Primary	COLU-CSTP-V2	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-COLU-3555	GENIE-COLU-3555-1	77	LUAD	Primary	COLU-CSTP-V2	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-COLU-3558	GENIE-COLU-3558-1	62	LUAD	Primary	COLU-CSTP-V2	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-COLU-3572	GENIE-COLU-3572-1	66	LUAD	Primary	COLU-CSTP-V2	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-COLU-3682	GENIE-COLU-3682-1	76	LUAD	Primary	COLU-CSTP-V2	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-COLU-3682	GENIE-COLU-3682-2	76	LUAD	Primary	COLU-CSTP-V2	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-COLU-3709	GENIE-COLU-3709-1	71	LUAD	Primary	COLU-CSTP-V2	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-505384	GENIE-DFCI-505384-5000701	84	LUAS	Primary	DFCI-ONCOPANEL-3.1	Non-Small Cell Lung Cancer	Lung Adenosquamous Carcinoma	Primary tumor
+GENIE-DFCI-505407	GENIE-DFCI-505407-4963657	58	LUAD	Primary	DFCI-ONCOPANEL-3.1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-514867	GENIE-DFCI-514867-4997473	73	LUAD	Primary	DFCI-ONCOPANEL-3.1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-514867	GENIE-DFCI-514867-5468283	73	LUAD	Primary	DFCI-ONCOPANEL-3.1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-539959	GENIE-DFCI-539959-5143879	54	NSCLCPD	Primary	DFCI-ONCOPANEL-3.1	Non-Small Cell Lung Cancer	Poorly Differentiated Non-Small Cell Lung Cancer	Primary tumor
+GENIE-DFCI-551705	GENIE-DFCI-551705-5159412	73	LUAD	Primary	DFCI-ONCOPANEL-3.1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-552112	GENIE-DFCI-552112-5143283	82	NSCLC	Primary	DFCI-ONCOPANEL-3.1	Non-Small Cell Lung Cancer	Non-Small Cell Lung Cancer	Primary tumor
+GENIE-DFCI-586835	GENIE-DFCI-586835-5216972	88	LUAD	Primary	DFCI-ONCOPANEL-3.1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-COLU-3776	GENIE-COLU-3776-1	72	LUAD	Primary	COLU-CSTP-V2	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-COLU-3836	GENIE-COLU-3836-1	63	LUAD	Primary	COLU-CSTP-V2	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-COLU-3839	GENIE-COLU-3839-1	63	LUAD	Primary	COLU-CSTP-V2	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-COLU-3859	GENIE-COLU-3859-1	73	LUAD	Primary	COLU-CSTP-V2	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-COLU-3879	GENIE-COLU-3879-1	52	LUAD	Primary	COLU-CSTP-V2	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-COLU-3879	GENIE-COLU-3879-2	52	LUAD	Primary	COLU-CSTP-V2	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-COLU-3879	GENIE-COLU-3879-3	52	LUAD	Primary	COLU-CSTP-V2	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-COLU-3916	GENIE-COLU-3916-1	71	LUAD	Primary	COLU-CSTP-V2	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-COLU-3932	GENIE-COLU-3932-1	77	LUAD	Primary	COLU-CSTP-V2	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-COLU-4033	GENIE-COLU-4033-1	65	LUAD	Primary	COLU-CSTP-V2	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-COLU-4033	GENIE-COLU-4033-2	65	LUAD	Primary	COLU-CSTP-V2	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-COLU-4046	GENIE-COLU-4046-1	41	LUAD	Primary	COLU-CSTP-V2	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-COLU-4109	GENIE-COLU-4109-1	81	LUAD	Primary	COLU-CSTP-V2	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-COLU-4132	GENIE-COLU-4132-1	74	LUAD	Primary	COLU-CSTP-V2	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-COLU-4132	GENIE-COLU-4132-2	74	LUAD	Primary	COLU-CSTP-V2	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-COLU-4132	GENIE-COLU-4132-3	74	LUAD	Primary	COLU-CSTP-V2	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-581884	GENIE-DFCI-581884-5545344	65	LUAD	Primary	DFCI-ONCOPANEL-3.1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-DFCI-582181	GENIE-DFCI-582181-5272974	51	NSCLC	Primary	DFCI-ONCOPANEL-3.1	Non-Small Cell Lung Cancer	Non-Small Cell Lung Cancer	Primary tumor
+GENIE-DFCI-618034	GENIE-DFCI-618034-5655822	58	LUAD	Primary	DFCI-ONCOPANEL-3.1	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0083187	GENIE-MSK-P-0083187-T01-IM7	62	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0084788	GENIE-MSK-P-0084788-T01-IM7	60	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0084622	GENIE-MSK-P-0084622-T01-IM7	49	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0086171	GENIE-MSK-P-0086171-T01-IM7	64	NSCLC	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Non-Small Cell Lung Cancer	Primary tumor
+GENIE-MSK-P-0081968	GENIE-MSK-P-0081968-T01-IM7	83	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0083566	GENIE-MSK-P-0083566-T01-IM7	69	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0084513	GENIE-MSK-P-0084513-T02-IM7	86	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0081676	GENIE-MSK-P-0081676-T02-IM7	44	LUSC	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-MSK-P-0084417	GENIE-MSK-P-0084417-T01-IM7	87	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0085025	GENIE-MSK-P-0085025-T01-IM7	61	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0084238	GENIE-MSK-P-0084238-T01-IM7	55	LUSC	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-MSK-P-0086174	GENIE-MSK-P-0086174-T01-IM7	68	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0083614	GENIE-MSK-P-0083614-T02-IM7	80	NSCLC	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Non-Small Cell Lung Cancer	Primary tumor
+GENIE-MSK-P-0082917	GENIE-MSK-P-0082917-T01-IM7	45	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0079920	GENIE-MSK-P-0079920-T02-IM7	78	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0086014	GENIE-MSK-P-0086014-T01-IM7	65	LUSC	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-MSK-P-0083570	GENIE-MSK-P-0083570-T01-IM7	80	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0082981	GENIE-MSK-P-0082981-T01-IM7	68	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0084910	GENIE-MSK-P-0084910-T01-IM7	64	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0085836	GENIE-MSK-P-0085836-T01-IM7	72	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0083850	GENIE-MSK-P-0083850-T01-IM7	69	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0085954	GENIE-MSK-P-0085954-T02-IM7	69	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0082795	GENIE-MSK-P-0082795-T01-IM7	67	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0083353	GENIE-MSK-P-0083353-T01-IM7	62	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0084365	GENIE-MSK-P-0084365-T01-IM7	77	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0086170	GENIE-MSK-P-0086170-T01-IM7	69	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0084458	GENIE-MSK-P-0084458-T01-IM7	75	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0086387	GENIE-MSK-P-0086387-T01-IM7	87	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0086069	GENIE-MSK-P-0086069-T01-IM7	72	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0082638	GENIE-MSK-P-0082638-T01-IM7	69	NSCLC	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Non-Small Cell Lung Cancer	Primary tumor
+GENIE-MSK-P-0082859	GENIE-MSK-P-0082859-T01-IM7	72	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0084404	GENIE-MSK-P-0084404-T03-IM7	66	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0083071	GENIE-MSK-P-0083071-T01-IM7	74	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0083240	GENIE-MSK-P-0083240-T01-IM7	59	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-MSK-P-0083240	GENIE-MSK-P-0083240-T02-IM7	59	LUAD	Primary	MSK-IMPACT505	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-372564	GENIE-UCSF-372564-24447T	75	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-411421	GENIE-UCSF-411421-02399T	37	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-467273	GENIE-UCSF-467273-17701T	>89	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-487497	GENIE-UCSF-487497-47380T	74	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-503273	GENIE-UCSF-503273-99465T	59	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-156387	GENIE-UCSF-156387-99128T	63	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-543375	GENIE-UCSF-543375-78847T	75	LUSC	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-UCSF-580221	GENIE-UCSF-580221-13906T	56	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-598998	GENIE-UCSF-598998-10889T	78	LUSC	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Squamous Cell Carcinoma	Primary tumor
+GENIE-UCSF-757488	GENIE-UCSF-757488-36809T	72	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-760595	GENIE-UCSF-760595-01114T	64	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-782233	GENIE-UCSF-782233-26303T	71	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-782238	GENIE-UCSF-782238-26304T	60	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-782279	GENIE-UCSF-782279-47099T	74	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-782286	GENIE-UCSF-782286-79661T	64	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-782531	GENIE-UCSF-782531-51442T	74	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-782546	GENIE-UCSF-782546-90921T	71	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-782564	GENIE-UCSF-782564-35011T	66	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
+GENIE-UCSF-782589	GENIE-UCSF-782589-18732T	58	LUAD	Primary	UCSF-IDTV5-TO	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Primary tumor
