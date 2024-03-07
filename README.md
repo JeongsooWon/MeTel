@@ -4,6 +4,10 @@ MeTel (Metastasis Teller)
 + Bayesian probabilistic model, ensures platform-independent results.
 + The confidence level aids in clinical decision-making and supports the integration of clinical and histological data.
 + Support an ethnic-specific mode, tailored by population-specific mutation frequency data, enhancing its global applicability.
+<br/><br/>
+**This repository includes scripts that can be utilized in the probability calculation process of the MeTel algorithm.
+  <br/>As an example of script usage, it contains input files derived from the somatic mutation profiles of in-house samples (n=12) employed in this study, as well as their corresponding outputs.**
+
 
 **Overview of the MeTel algorithm**
 ------
