@@ -17,7 +17,7 @@ MeTel (Metastasis Teller)
 6. Final classification IPM or MPLC: If s > 0, samples classified as IPM, or if s < 0, MPLC.
 7. The process of combining with histopathology data with MeTel's results (only with the ‘Likely’ confidence level).
 
-Notices
+Notices (Before running script)
 ------
 If your samples contain the specified driver mutations (EGFR p.L858R, EGFR E19del, KRAS G12X) and these drivers do not match between the two samples, the algorithm will immediately classify them as MPLC. Therefore, proceed to the next steps of the algorithm and run the analysis only if the drivers in both samples match or if neither sample contains the listed drivers.
 
