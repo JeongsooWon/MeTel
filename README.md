@@ -51,6 +51,7 @@ python3 MeTel.py {input.txt} {output.txt} [Options]
 -r {asian, non-asian} --race {asian, non-asian}    Race Mode (default : Unspecified(use all population))
 ```
 **Output**
+Examples of output file is shown in "OUTPUT" directory.
 + **Classification_Score(s):** The log-scale value of the ratio of probability of IPM and MPLC
 + **Diagnosis_Result:** If s > 0, samples classified as IPM, or if s < 0, MPLC
 + **Confidence_Level:** Likley, Probable, Confident
