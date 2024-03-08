@@ -23,7 +23,7 @@ MeTel (Metastasis Teller)
 
 Notices (Before running the script)
 ------
-If your samples contain the specified driver mutations (EGFR p.L858R, EGFR E19del, KRAS G12X) and these drivers do not match between the two samples, the algorithm will immediately classify them as MPLC. Therefore, proceed to the next steps of the algorithm and run the analysis only if the drivers in both samples match or if neither sample contains the listed drivers.
+If your samples contain the specified driver mutations (EGFR p.L858R, EGFR E19del, KRAS G12X) and these drivers do not match between the two samples, the algorithm will immediately classify them as MPLC. <br/>Therefore, proceed to the next steps of the algorithm and run the analysis only if the drivers in both samples match or if neither sample contains the listed drivers.
 
 Input format
 -------
