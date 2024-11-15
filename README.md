@@ -17,7 +17,7 @@ MeTel (Metastasis Teller)
 1. MeTel takes in input somatic mutation (with VAF) profile from DNA sequencing data of multiple lung cancer samples as input.
 2. First, MeTel compares driver mutations (EGFR p.L858R, E19del and KRAS p.G12X). If there are different drivers, they are classified as MPLC, and if the drivers match, it proceeds to further steps.
 3. MeTel estimates the probability of IPM (P<sub>I</sub>) and MPLC (P<sub>M</sub>).
-4. It outputs classification score (s) and the log-scale value of the ratio of PI and PM.
+4. It outputs classification score (s) and the log-scale value of the ratio of P<sub>I</sub> and P<sub>M</sub>.
 5. The confidence level is another output from MeTel. Based on maximum number of , Based on the maximum mutation count of the two samples, if 2 or fewer the confidence level is 'Likely'; otherwise, it is 'Confident.'
 6. Final classification IPM or MPLC: If s > 0, samples classified as IPM; otherwise, MPLC
 7. The process of combining with histopathology data with MeTel's results (only with the ‘Likely’ confidence level).
