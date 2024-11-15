@@ -11,7 +11,8 @@ MeTel (Metastasis Teller)
 
 **Overview of the MeTel algorithm**
 ------
-![Figure1](https://github.com/JeongsooWon/MeTel/assets/157678300/b927a90e-815d-45b6-b1a6-41ced3f734ee)
+![Figure1](https://github.com/user-attachments/assets/7e8e275f-bc9e-4a59-9f6b-8eb6a3e59181)
+
 
 1. MeTel takes in input somatic mutation (with VAF) profile from DNA sequencing data of multiple lung cancer samples as input.
 2. First, MeTel compares driver mutations (EGFR p.L858R, E19del and KRAS p.G12X). If there are different drivers, they are classified as MPLC, and if the drivers match, it proceeds to further steps.
