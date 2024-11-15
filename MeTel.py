@@ -6,8 +6,8 @@ DEFAULT_DIVISOR = 14906 ##samples in ./GENIE/data_NSCLC_all.txt (GENIE v15)
 ASIAN_DIVISOR = 1069 ##samples in ./GENIE/data_NSCLC_asian.txt (GENIE v15)
 NON_ASIAN_DIVISOR = 13837 ##samples in ./GENIE/data_NSCLC_nonasian.txt (GENIE v15)
 DEFAULT_MUTATION_FREQUENCY = 10**-6
-IPM_PRIOR = 0.28
-MPLC_PRIOR = 0.72
+IPM_PRIOR = 0.29
+MPLC_PRIOR = 0.71
 
 # Function to read mutation frequencies
 def read_mutation_frequencies(filename, divisor):
