@@ -34,43 +34,52 @@ def calculate_probability(avaf, bvaf, mutation_frequency):
     else:
         return 0  # Log(1) is 0
 
-# Function to calculate score and confidence
-def calculate_score_and_confidence(prob_list, mutation_prior_ratio):
+# Function to calculate score and confidence level
+def calculate_score_and_confidence(prob_list, mutation_prior_ratio, max_mutation_count):
     score = sum(prob_list) + math.log10(mutation_prior_ratio)
     classification = 'IPM' if score > 0 else 'MPLC'
-    confidence_level = get_confidence_level(abs(score))
+    confidence_level = get_confidence_level(max_mutation_count)
     return score, classification, confidence_level
 
-# Function to determine confidence level
-def get_confidence_level(score):
-    if score < 0.6:
+# Function to determine confidence level based on maximum mutation count
+def get_confidence_level(max_mutation_count):
+    if max_mutation_count <= 2:
         return 'Likely'
-    elif score < 1.28:
-        return 'Probable'
     else:
         return 'Confident'
+
 
 # Main processing function
 def process_metel(input_file, mutation_frequencies, mode, race):
     with open(input_file, 'r') as file:
         next(file)  # Skip the header line
         ab_list, ba_list = [], []
+        a_mutation_count, b_mutation_count = 0, 0  
+
         for line in file:
             gene, hgvsp, avaf, bvaf = parse_line(line)
             mutation_frequency = mutation_frequencies.get(f'{gene}\t{hgvsp}', DEFAULT_MUTATION_FREQUENCY)
             ab_list.append(calculate_probability(avaf, bvaf, mutation_frequency))
+            
+            # Update mutation counts for A and B
+            if avaf != 0:
+                a_mutation_count += 1
+            if bvaf != 0:
+                b_mutation_count += 1
+
             if mode == 'syn':
                 ba_list.append(calculate_probability(bvaf, avaf, mutation_frequency))
 
+        max_mutation_count = max(a_mutation_count, b_mutation_count)
         mutation_prior_ratio = IPM_PRIOR / MPLC_PRIOR
-        score_ab, classification_ab, confidence_ab = calculate_score_and_confidence(ab_list, mutation_prior_ratio)
-        score_ba, classification_ba, confidence_ba = calculate_score_and_confidence(ba_list, mutation_prior_ratio)
+
+        score_ab, classification_ab, confidence_ab = calculate_score_and_confidence(ab_list, mutation_prior_ratio, max_mutation_count)
+        score_ba, classification_ba, confidence_ba = calculate_score_and_confidence(ba_list, mutation_prior_ratio, max_mutation_count)
 
         # Selecting the result with the higher absolute score
         final_score, final_classification, final_confidence = (score_ab, classification_ab, confidence_ab) \
             if abs(score_ab) > abs(score_ba) else (score_ba, classification_ba, confidence_ba)
         return final_score, final_classification, final_confidence, race
-
 
 # Setup argument parser
 parser = argparse.ArgumentParser(description='Process VAF data for MeTel algorithm.')
