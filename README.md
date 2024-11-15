@@ -16,10 +16,10 @@ MeTel (Metastasis Teller)
 
 1. MeTel takes in input somatic mutation (with VAF) profile from DNA sequencing data of multiple lung cancer samples as input.
 2. First, MeTel compares driver mutations (EGFR p.L858R, E19del and KRAS p.G12X). If there are different drivers, they are classified as MPLC, and if the drivers match, it proceeds to further steps.
-3. MeTel estimates the probability of IPM (PI) and MPLC (PM).
+3. MeTel estimates the probability of IPM (P<sub>I<sub>) and MPLC (P<sub>M<sub>).
 4. It outputs classification score (s) and the log-scale value of the ratio of PI and PM.
-5. The confidence level is another output from MeTel. Based on |s|, cutoffs of 0.6 and 1.28 represent one of the three: Likely, Probable and Confident.
-6. Final classification IPM or MPLC: If s > 0, samples classified as IPM, or if s < 0, MPLC.
+5. The confidence level is another output from MeTel. Based on maximum number of , Based on the maximum mutation count of the two samples, if 2 or fewer the confidence level is 'Likely'; otherwise, it is 'Confident.'
+6. Final classification IPM or MPLC: If s > 0, samples classified as IPM; otherwise, MPLC
 7. The process of combining with histopathology data with MeTel's results (only with the ‘Likely’ confidence level).
 
 Notices (Before running the script)
@@ -59,6 +59,6 @@ python3 MeTel.py {input.txt} {output.txt} [Options]
 
 Examples of output file is shown in "OUTPUT" directory.
 + **Classification_Score(s):** The log-scale value of the ratio of probability of IPM and MPLC
-+ **Diagnosis_Result:** If s > 0, samples classified as IPM, otherwise, MPLC
++ **Diagnosis_Result:** If s > 0, samples classified as IPM; otherwise, MPLC
 + **Confidence_Level:** Likley, Confident
 + **Race:** Racial information (asian, non-asian, Unspecified)
