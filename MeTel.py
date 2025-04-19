@@ -52,7 +52,6 @@ def get_confidence_level(max_mutation_count):
 # Main processing function
 def process_metel(input_file, mutation_frequencies, mode, race):
     with open(input_file, 'r') as file:
-        next(file)  # Skip the header line
         ab_list, ba_list = [], []
         a_mutation_count, b_mutation_count = 0, 0  
 
