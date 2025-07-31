@@ -56,8 +56,8 @@ def process_metel(input_file, mutation_frequencies, mode, race):
         a_mutation_count, b_mutation_count = 0, 0  
 
         for line in file:
-            gene, hgvsp, avaf, bvaf = parse_line(line)
-            mutation_frequency = mutation_frequencies.get(f'{gene}\t{hgvsp}', DEFAULT_MUTATION_FREQUENCY)
+            gene, hgvsc, avaf, bvaf = parse_line(line)
+            mutation_frequency = mutation_frequencies.get(f'{gene}\t{hgvsc}', DEFAULT_MUTATION_FREQUENCY)
             ab_list.append(calculate_probability(avaf, bvaf, mutation_frequency))
             
             # Update mutation counts for A and B
