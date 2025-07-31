@@ -22,8 +22,8 @@ def read_mutation_frequencies(filename, divisor):
 # Function to parse a line of input file
 def parse_line(line):
     fields = line.split('\t')
-    gene, hgvsp, avaf, bvaf = fields[1], fields[3], float(fields[4]), float(fields[5])
-    return gene, hgvsp, avaf, bvaf
+    gene, hgvsc, avaf, bvaf = fields[1], fields[2], float(fields[4]), float(fields[5])
+    return gene, hgvsc, avaf, bvaf
 
 # Function to calculate the probability
 def calculate_probability(avaf, bvaf, mutation_frequency):
