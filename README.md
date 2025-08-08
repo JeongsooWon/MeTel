@@ -1,10 +1,14 @@
 MeTel (Metastasis Teller)
 ---------------------
-+ Classification algorithm for intrapulmonary metastasis (IPM) and multiple primary lung cancer (MPLC) in multiple lung cancer.
-+ Bayesian probabilistic model, ensures platform-independent results.
-+ The confidence level aids in clinical decision-making and supports the integration of clinical and histological data.
-+ Support an ethnic-specific mode, tailored by population-specific mutation frequency data, enhancing its global applicability.
+A Bayesian probabilistic model for the genomic classification of intrapulmonary metastasis (IPM) and multiple primary lung cancer (MPLC).
+
++ Classification Algorithm: Differentiates between IPM and MPLC in patients with multiple lung tumors using somatic mutation profiles.
++ Probabilistic Model: Built on a Bayesian model to ensure platform-independent and robust results.
++ Decision Support: Provides a confidence level to aid in clinical decision-making, supporting the integration of clinical and histological data.
++ Experimental Race-Specific Models: Offers experimental models (asian, black, hispanic) tailored with public population frequency data.
 <br/><br/>
+----------------------------
+
 **This repository includes scripts that utilized in the probability calculation process of the MeTel algorithm.
   <br/>And contains input files which, as an example, are derived from the somatic mutation profiles of in-house samples (n=12) used in this study, along with their corresponding outputs.**
 
