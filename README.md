@@ -34,9 +34,10 @@ This repository provides the Python script for the MeTel algorithm, example data
 6. A final classification of IPM or MPLC is made: If s > 0, samples are classified as IPM; otherwise, MPLC
 7. The process allows for the integration of histopathology data with MeTel's results, especially for cases with a ‘Likely’ confidence level.
 
-### Notices (Before running the script)
-If tumor samples show discordance for any of these drivers (e.g., one tumor has an EGFR mutation and the other has a KRAS mutation), the algorithm will immediately classify them as MPLC. Therefore, run the analysis script only if the samples either share the same driver mutation from this list or if neither sample contains any of the listed drivers.
-<br><br>
+## Getting Started
+### Prerequisites
+**Important Notice**: MeTel performs an initial check for a predefined set of clinically actionable driver alterations. If tumor samples show discordance for any of these drivers (e.g., one tumor has an EGFR mutation and the other has a KRAS mutation), the algorithm will immediately classify them as MPLC.
+Therefore, run the analysis script only if the samples either share the same driver mutation from this list or if neither sample contains any of the listed drivers.
 
 ## Note on the Race-Specific Models
 Please be aware that all race-specific models, activated by the -r or --race option (asian, black, hispanic), are experimental features.
@@ -56,7 +57,7 @@ An input for MeTel.py should be a tab-separated text file containing the union s
 + **5th column:** A_VAF (Variant Allele Frequency for the first occurring sample)
 + **6th column:** B_VAF (Variant Allele Frequency for the later occurring sample)
 
-Notes:
+**Notes:**
 1.	If the temporal order of the samples is unknown (synchronous), the sample order (A vs. B) does not matter.
 2.	Enter a VAF of 0 for wild-type positions in a sample.
 3.	If a VAF value is not available, we recommend using an estimated value of 0.3, which represents a typical heterozygous somatic mutation.
