@@ -7,7 +7,6 @@ A Bayesian probabilistic model for the genomic classification of intrapulmonary 
 + Decision Support: Provides a confidence level to aid in clinical decision-making, supporting the integration of clinical and histological data.
 + Experimental Race-Specific Models: Offers experimental models (asian, black, hispanic) tailored with public population frequency data.
 <br/><br/>
-----------------------------
 
 **This repository includes scripts that utilized in the probability calculation process of the MeTel algorithm.
   <br/>And contains input files which, as an example, are derived from the somatic mutation profiles of in-house samples (n=12) used in this study, along with their corresponding outputs.**
