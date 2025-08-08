@@ -92,7 +92,7 @@ parser.add_argument('output_file', type=str, help='Output file name')
 args = parser.parse_args()
 
 # Determine mutation frequency file and divisor based on race option
-mutation_freq_file = './GENIE/data_mutations_c.txt'  # Default file
+mutation_freq_file = './GENIE/mutations_HGVSc_All.txt'  # Default file
 divisor = DEFAULT_DIVISOR
 
 if args.race == 'asian':
