@@ -2,9 +2,10 @@ import argparse
 import math
 
 # Constants
-DEFAULT_DIVISOR = 14906 ##samples in ./GENIE/data_NSCLC_all.txt (GENIE v15)
-ASIAN_DIVISOR = 1069 ##samples in ./GENIE/data_NSCLC_asian.txt (GENIE v15)
-NON_ASIAN_DIVISOR = 13837 ##samples in ./GENIE/data_NSCLC_nonasian.txt (GENIE v15)
+DEFAULT_DIVISOR = 14906 ## all samples in ./GENIE/data_NSCLC_annotated.txt (GENIE v15)
+ASIAN_DIVISOR = 1069 ## 'Asian' samples in ./GENIE/data_NSCLC_annotated.txt (GENIE v15)
+BLACK_DIVISOR = 1018 ## 'Black' samples in ./GENIE/data_NSCLC_annotated.txt (GENIE v15)
+HISPANIC_DIVISOR = 663 ## 'Spanish/Hispanic' in ./GENIE/data_NSCLC_annotated.txt (GENIE v15)
 DEFAULT_MUTATION_FREQUENCY = 10**-6
 IPM_PRIOR = 0.29
 MPLC_PRIOR = 0.71
@@ -84,7 +85,7 @@ def process_metel(input_file, mutation_frequencies, mode, race):
 parser = argparse.ArgumentParser(description='Process VAF data for MeTel algorithm.')
 parser.add_argument('input_file', type=str, help='Input file name')
 parser.add_argument('-s', '--synmeta', type=str, default='syn', choices=['syn', 'meta'], help='Synchronicity mode')
-parser.add_argument('-r', '--race', type=str, choices=['asian', 'non-asian'], help='Race mode')
+parser.add_argument('-r', '--race', type=str, choices=['asian', 'black','hispanic'], help='Race mode')
 parser.add_argument('output_file', type=str, help='Output file name')
 
 # Parse arguments
@@ -95,11 +96,14 @@ mutation_freq_file = './GENIE/data_mutations_c.txt'  # Default file
 divisor = DEFAULT_DIVISOR
 
 if args.race == 'asian':
-    mutation_freq_file = './GENIE/data_mutations_c_asian.txt'
+    mutation_freq_file = './GENIE/mutations_HGVSc_Asian.txt'
     divisor = ASIAN_DIVISOR
-elif args.race == 'non-asian':
-    mutation_freq_file = './GENIE/data_mutations_c_nonasian.txt'
-    divisor = NON_ASIAN_DIVISOR
+elif args.race == 'black':
+    mutation_freq_file = './GENIE/mutations_HGVSc_Black.txt'
+    divisor = BLACK_DIVISOR
+elif args.race == 'hispanic':
+    mutation_freq_file = './GENIE/mutations_HGVSc_Hispanic.txt'
+    divisor = HISPANIC_DIVISOR
 
 # Read mutation frequencies
 mutation_frequencies = read_mutation_frequencies(mutation_freq_file, divisor)
