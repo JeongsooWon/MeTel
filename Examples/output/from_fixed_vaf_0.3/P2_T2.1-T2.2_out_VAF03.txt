@@ -1,0 +1,2 @@
+Classification_Score(s)	Diagnosis_Result	Confidence_Level	Race
+213.21179803580105	IPM	Confident	Unspecified

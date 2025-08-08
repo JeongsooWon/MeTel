@@ -1,2 +1,0 @@
-Classification_Score(s)	Diagnosis_Result	Confidence_Level	Race
--1.6082822016473632	MPLC	Confident	Unspecified
