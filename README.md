@@ -38,17 +38,15 @@ This repository provides the Python script for the MeTel algorithm, example data
 ### Prerequisites
 **Important Notice**: MeTel performs an initial check for a predefined set of clinically actionable driver alterations. If tumor samples show discordance for any of these drivers (e.g., one tumor has an EGFR mutation and the other has a KRAS mutation), the algorithm will immediately classify them as MPLC.
 Therefore, run the analysis script only if the samples either share the same driver mutation from this list or if neither sample contains any of the listed drivers.
-
+<br><br>
 ## Note on the Race-Specific Models
 Please be aware that all race-specific models, activated by the -r or --race option (asian, black, hispanic), are experimental features.
 These models are primarily based on publicly available population-specific mutation frequency data and have not yet undergone rigorous clinical validation. While our publication may include preliminary analyses using these models, they are intended for research purposes only at this stage.
 Therefore, results obtained using any of the race-specific options should be interpreted with significant caution. We are actively working on validating and improving these models with dedicated, diverse datasets.
-
+<br><br>
 ## Usage
 
 **Input format**
-
-
 An input for MeTel.py should be a tab-separated text file containing the union set of somatic mutations from two samples of a single patient.
 + **1st column:** Patient ID
 + **2nd column:** Gene
@@ -62,9 +60,8 @@ An input for MeTel.py should be a tab-separated text file containing the union s
 2.	Enter a VAF of 0 for wild-type positions in a sample.
 3.	If a VAF value is not available, we recommend using an estimated value of 0.3, which represents a typical heterozygous somatic mutation.
 
+## Running
 
-Running
---------
 **Command line interface**
 
 ```
@@ -86,6 +83,7 @@ python3 MeTel.py {input.txt} {output.txt} [Options]
 ```python3 MeTel.py ./INPUT/patient_2.txt ./OUTPUT/result_2.txt -s meta -r asian```
 
 **Output format**
+
 The output file will contain the following key-value pairs.
 Example output:
 + **Classification_Score(s):** The log-scale value of the ratio of probability of IPM and MPLC.
