@@ -14,8 +14,7 @@ A Bayesian probabilistic model for the genomic classification of intrapulmonary 
 
 **Overview of the MeTel algorithm**
 ------
-![Figure1](https://github.com/user-attachments/assets/7e8e275f-bc9e-4a59-9f6b-8eb6a3e59181)
-
+![Figure1](https://github.com/user-attachments/assets/01107d11-9473-4373-9676-1bc47e86ed33)
 
 1. MeTel takes in input somatic mutation (with VAF) profile from DNA sequencing data of multiple lung cancer samples as input.
 2. First, MeTel compares driver mutations (EGFR p.L858R, E19del and KRAS p.G12X). If there are different drivers, they are classified as MPLC, and if the drivers match, it proceeds to further steps.
